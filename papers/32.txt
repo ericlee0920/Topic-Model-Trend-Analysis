@@ -1,0 +1,510 @@
+Abstract
+Proliferation is an important part of cancer development and progression. This is manifest by altered expression and/or activity of cell cycle related proteins. Constitutive activation of many signal transduction pathways also stimulates cell growth. Early steps in tumor development are associated with a fibrogenic response and the development of a hypoxic environment which favors the survival and proliferation of cancer stem cells. Part of the survival strategy of cancer stem cells may manifested by alterations in cell metabolism. Once tumors appear, growth and metastasis may be supported by overproduction of appropriate hormones (in hormonally dependent cancers), by promoting angiogenesis, by undergoing epithelial to mesenchymal transition, by triggering autophagy, and by taking cues from surrounding stromal cells. A number of natural compounds (e.g., curcumin, resveratrol, indole-3-carbinol, brassinin, sulforaphane, epigallocatechin-3-gallate, genistein, ellagitannins, lycopene and quercetin) have been found to inhibit one or more pathways that contribute to proliferation (e.g., hypoxia inducible factor 1, nuclear factor kappa B, phosphoinositide 3 kinase/Akt, insulin-like growth factor receptor 1, Wnt, cell cycle associated proteins, as well as androgen and estrogen receptor signaling). These data, in combination with bioinformatics analyses, will be very important for identifying signaling pathways and molecular targets that may provide early diagnostic markers and/or critical targets for the development of new drugs or drug combinations that block tumor formation and progression.
+1. The centrality of cell proliferation as a target in carcinogenesis
+The cancer cell embodies characteristics that permit survival beyond its normal life span and to proliferate abnormally. Cancer therapy, involving cytotoxic drugs, kills cells that have a high basal level of proliferation and regeneration. While this type of therapy targets tumor cells, it affects rapidly proliferating, nontumor cells in the skin, hair, and epithelium of the gastrointestinal tract, accounting for the high level of toxicity associated with such treatments. Growth of normal tissue is tightly regulated while this regulation is lost in tumor cells. Lack of normal growth control is not only operative in early tumorigenesis but also during tumor metastasis. Thus, there is much to be learned from studies that address how and when abnormal growth begins, and then to use this knowledge to identify novel therapeutic targets and approaches that would more specifically treat cancer cells without damaging the normal host cells.
+Carcinogenesis is a multistep process in which changes in tissue architecture and the formation of preneoplastic nodules precede the appearance of cancer. These alterations are associated with changes in cell phenotype that include epithelial to mesenchymal transition (EMT) and cell migration, resulting in local regions of hypoxia that promote the survival and growth of tissue stem cells [1], [2], [3], [4], [5], as well as angiogenesis [6], [7], [8], [9] (Table 1). Autophagy also promotes the survival of preneoplastic and tumor cells under stressful conditions. While the growth and survival of normal cells are under partial control from growth factors and hormones, alterations in signaling pathways, resulting from mutations and/or epigenetic changes, renders cells resistant and independent of these pathways. Such changes promote survival and growth both by constitutively stimulating pathways that favor proliferation [10], and by inhibiting and/or overriding apoptotic pathways. Initially, altered signaling pathways, as well as changes in the metabolomics profile, epigenetically modify the patterns of gene expression in the cell, and as such are therapeutically reversible (Table 1). In contrast, tumor progression proceeds by “driver” mutations that are more difficult to target pharmacologically. Thus, elucidation of the underlying epigenetic mechanisms responsible for these alterations will provide meaningful targets for the development of novel therapeutics prior to or at the earliest stages of malignant transformation.
+Table 1. Factors in cell survival and proliferation the contribute to carcinogenesis.
+Factor	Contribution to carcinogenesis
+EMT	Promotes stem cell growth, metastasis
+Hypoxia	HIFs promote proliferation of CSCs and angiogenesis; alters metabolism; constitutive activation of signaling pathways
+Autophagy	Promotes cell survival in response dysregulated signaling-mediated proliferation, enhanced glycolysis, and hypoxia
+CSCs	Dysregulation in “stemness,” quiescence, self-renewal, the ability to produce differentiated progeny, resistance to apoptosis, and chemoresistance, resulting in altered cell fate and unregulated cell growth
+Cell cycle proteins	Dysregulated expression of cell cycle proteins (Rb, CDKs, cdk inhibitors) promote uncontrolled cell proliferation
+Signal transduction pathways	Constitutive activation of multiple signaling pathways promote uncontrolled proliferation (e.g., Wnt, Notch, IGF, PI3K/Akt, NF-κB, Hh)
+Altered cell metabolism	Promotes altered survival and growth in the adverse conditions (e.g., hypoxia) in early stages of carcinogenesis (e.g., altered glycolysis and methionine metabolism)
+Hormone signaling	Promote the growth of hormone responsive cancers through constitutive activation of estrogen and androgen signaling pathways
+Tumor microenvironment	Stromal-tumor cell crosstalk promotes growth and metastasis of cancer stem cells
+To facilitate a better understanding of the early changes seen in carcinogenesis, this review presents discussion of the major pathways, disruption of which promote unregulated proliferation of cancer cells. This review focuses on changes in tissue architecture (EMT and migration), formation of preneoplastic nodules, development of hypoxia, survival and growth of cancer stem cells, autophagy and growth factor independent proliferation (Table 1). Each section attempts to identify the “best” molecular targets (e.g., receptors, signaling molecules, etc.) that might be exploited therapeutically. The “best” targets were chosen based upon their altered expression/function that promoted proliferation in many different human cancers. Additional questions include: Does loss of a target prevent tumor initiation or block tumor maintenance? What is the effect of global loss of a target in other tissues? Will there be off target effects due to additional functions and/or because of a high degree of homology with other proteins? Many of these targets are pleotropic, regulating different pathways and as such their targeting might abrogate additional required hallmarks. At the end of this review, there is a discussion of natural products that are likely to be effective against these molecular targets and pathways, which may be useful in delaying the onset of cancer and/or reversing cancer cell proliferation, with reduced associated toxicity. Many natural products have much lower toxicity than compounds or derivatives obtained from chemical libraries, suggesting that their further development could provide distinct advantages.
+2. How does EMT contribute to tumor proliferation?
+When EMT occurs in adult tissues in response to injury or during tumorigenesis, epithelial cells change morphological appearance, from an ordered structure with apical and basal polarity to a less ordered, migratory fibroblastic shape. The Snail family of transcription factors (Snail1/Snail and Snail2/Slug) is closely associated with EMT [11], because they suppress epithelial cadherin (E-cadherin) expression [12], [13], [14], which normally facilitates cell–cell interactions, providing polarity cues and preventing dissemination. Snail associated EMT is normally under stringent regulation [15], [16], [17], but when that is lost, cancer may appear [17], [18], [19]. Increased expression of Snail and Slug protects cells from death induced by the loss of survival factors or by apoptotic stimuli [15], [20], [21], [22], [23], [24]. Elevated Snail1/2 results in increased protection from DNA damage [17], [20], [21], increased resistance to chemotherapeutic agents [25] and radiation therapy. Snail and Slug may also affect a cell's response to genotoxic stress, increasing DNA damage, which then may contribute to cancer development (Fig. 1).
+ 
+1.	Download : Download high-res image (555KB)
+2.	Download : Download full-size image
+Fig. 1. Senescence-resistant stem cells (SCs) are targets of Snail induced tumors. Tumor-associated Snail1/2 contribute to metastasis, but are also involved in early stages of cancer. In this model, cells expressing oncogenic Snail1/2 undergo EMT or senescence. However, SCs are resistant to this fate. Snail1/2 increases resistance to DNA damage, allowing those cells to accumulate mutations that fuel malignant transformation and uncontrolled cell growth.
+Snail1 induced E-cadherin depletion is associated with the acquisition of invasive properties in several epithelial cell lines [12], [26], [27], [28], [29] and in tumors [18], [19]. Snail expression also correlates with poor survival in human cancer [30], [31], [32], [33]. Cells expressing Snail1 typically have an undifferentiated phenotype [18], suggesting a potential role in “stemness” and the genesis of cancer stem cells (CSC) (described below). CSCs are resistant to cell cycle arrest or senescence thereby accumulating oncogene induced DNA damage and mutations that guide malignant transformation. Cells undergoing EMT, and cells with properties of CSCs are resistant to typical cancer intervention strategies, tumor relapse following therapy, and metastasis. However, the expression of selected microRNAs (miRNA) that regulate gene expression in these cells can be altered by natural products, such as curcumin and epigallocatechin-3-gallate (EGCG) [34] (see below), suggesting a fresh therapeutic approach that needs to be developed in the future. EMT may occur prior to tumor appearance, resulting in aberrant tissue architecture and the development of hypoxia. In addition, CSCs drive tumor formation. These events further suggest the importance of these targets in cancer chemoprevention.
+3. How does hypoxia contribute to tumor proliferation?
+3.1. Hypoxia inducible factors [HIFs]
+Cancer development results from the selection of cells with mutation(s) that provide survival and proliferative advantages. Normal barriers to proliferation are overcome as clones adapt to an ever changing hostile microenvironment, where low oxygen tension, low glucose levels, and an acidic extracellular pH (all of which increase genetic instability) are found. The hypoxia inducible factors, HIF-1 and HIF-2, are upregulated in response to these conditions. This could occur by constitutive activation of PI3K signaling or inactivating mutations in, for example, the von Hippel–Lindau tumor suppressor, VHL [35], [36], [37], which normally deacetylates HIF-1α, leading to HIF-1α polyubiquitination and proteasomal degradation [38]. HIFs trans activate genes mediating proliferation, angiogenesis, intermediate metabolism (glycolysis) and pH regulation, which promote tumor development [39].
+HIF-1α stimulates production of growth factors, such as transforming growth factor β (TGF-β), insulin-like growth factor 2, interleukin-6 (IL-6), interleukin-8, macrophage migration inhibitory factor (MIF), and growth factor receptors, such as the epidermal growth factor receptor (EGFR), resulting in continuous proliferative signaling. In the hypoxic environment, constitutive activation of these signaling pathways (e.g., Ras [1] and PI3K [2]) stabilizes HIF-1 and may result in “oncogene addiction” that persists through the transition from adenoma to carcinoma. In the case of PI3K, constitutive activation may result from the appearance of mutations in tumor suppressor genes (e.g., the phosphatase and tensin homolog [PTEN]), from activating mutations in the PI3K complex itself, or from aberrant signaling in receptor tyrosine kinases [40]. Elevated PI3K stimulates the mechanistic target of rapamycin (mTOR) [35], and ATP production [41], [42], both of which support cell proliferation. Strategies to block the proliferative effects of hypoxia include the design of small molecule HIF inhibitors, by enhanced degradation of HIF-1 via inhibition of heat shock protein 90 (Hsp90), or by inhibiting mTOR [43].
+The Warburg effect describes the ability of tumor cells to switch from oxidative phosphorylation to glycolytic metabolism as their primary energy source. HIF-1 increases the expression of glycolytic enzymes and glucose transporters 1 and 3 [1], which facilitate glucose uptake necessitated by inefficient glycolysis. HIF-1 channels glucose toward glycolysis, and represses mitochondrial respiration, protecting cells from oxidative damage. Increased glycolytic metabolism promotes ATP production to sustain cell proliferation in the absence of oxygen. The development of glycolytic inhibitors has shown promising results in vitro [43]. Energy depletion and hypoxia also suppress mTOR signaling through activation of Ataxia telangiectasia mutated (ATM, involved in cell cycle arrest and DNA repair), saving on energy consuming protein synthesis and DNA damage responses. Thus, ATM or checkpoint 1 inhibitors may also abrogate metabolic adaptation of cells to hypoxia and subsequent survival [6], [43].
+HIF-1α also promotes autophagy, which is a mechanism whereby cells degrade macromolecules and organelles, and then reutilize the products for energy production and biosynthesis, thereby promoting cell survival. Thus, blocking autophagy via inhibition of IRE1 (a serine/threonine protein kinase/endoribonuclease that alters host cell gene expression under ER stress) may increase the sensitivity of cells to apoptosis in hypoxic environments [43]. Elevated HIF-1 levels may also increase de novo fatty acid synthesis [44], [45] by upregulation of fatty acid synthase (FAS) transcription. This is mediated through sterol regulatory element binding protein 1 via Akt1 activation. Thus, inhibition of FAS or HIF-1 might block fatty acid synthesis mediated growth as well.
+Despite the acidic pH due to accumulation of lactic acid during hypoxia, intracellular pH is maintained near neutral as a result of HIF-mediated up regulation/activation of membrane located transporters, exchangers, pumps and ectoenzymes. These include the amiloride sensitive Na+/H+ Exchanger, the H+/lactate cotransporter (monocarboxylate transporter, MCT4), and carbonic anhydrase (CA) IX and XII [6]. Although specific inhibitors of MCT4 are not available, disrupting pH homeostasis is justified by the antitumor and antimetastatic activity of CA inhibitors in xenografts [43]. Bioreductive agents may also be therapeutically useful as long as strategies are applied to increase their extravascular penetration [45]. Thus, while HIF-1/2 up regulation is a natural cellular response to hypoxia, this epigenetically fuels pathways that promote proliferation, creating an environment where mutation becomes more likely. Blocking hypoxia is attractive because it represents a predriver mutation state, where reversibility may be more feasible.
+3.2. How does hypoxia promote growth in preneoplastic tissues?
+Premalignant nodules are mostly devoid of blood vessels which limits the diffusion of substrates across the basement membrane from the local blood supply. Adaptation to these conditions is critical in the transition from a benign nodule to malignancy. As such, carcinoma in situ (CIS) becomes malignant following rupture of the basement membrane and invasion into the surrounding tissue, which may be facilitated by increased acid production [7]. Hypoxia may promote CIS progression by selecting for cells that are resistant to extracellular acidosis and those with upregulated glycolysis. Thus, the transition from preinvasive to invasive tumor may be closely linked to the CIS microenvironment [7], [8].
+In inflammation related carcinogenesis, altered tissue architecture due to necrosis and the development of hypoxia attracts inflammatory responses [46]. The latter usually includes tumor associated macrophages (TAM) that stimulate tumor proliferation (by promoting angiogenesis) and progression (by promoting invasion and metastasis) through the secretion of growth factors and cytokines [47], [48]. HIF-1α is activated by these proinflammatory cytokines, which include tumor necrosis factor alpha (TNF-α) and interleukin-1β (IL-1β). Proinflammatory cyclooxygenase 2 (COX2) also mediates IL-1β-induced HIF-1α expression through production of prostaglandin E2 (PGE2). This leads to activation of the ras-mitogen activated protein kinase (MAPK) pathway, which maintains the prosurvival COX2/PGE2 pathway. Src is another key factor in hypoxia induced vascular endothelial growth factor (VEGF) and PGE2-mediated transactivation of EGFR. In addition, β-catenin-HIF-1 interaction results in the enhancement of HIF-1 transcriptional activity [8], [49]. Importantly, HIF-1 is also activated in TAMs under hypoxic conditions [50], [51], resulting in the stimulation of nuclear factor kappa B (NF-κB), and further inflammatory cytokine production, including sustained elevations in HIF-1. This feedback promotes tumor progression [52]. Thus, HIFs link hypoxia, chronic inflammation, and tumor progression by reprogramming tumor cells, macrophages and other cells during cancer development. Therefore, introducing natural compounds that target hypoxia in general, and NF-κB in particular, might delay or prevent the onset of dysplasia or/and neoplastic transformation, particularly in cell types where HIF promotes early steps of carcinogenesis. In this context, the antiinflammatory properties of many natural compounds may be able to attenuate the induction of HIF-1 (see below), thereby potentially preventing tumor development.
+4. Autophagy and tumor cell proliferation
+In normal cells, basal autophagy is a mechanism that maintains cellular homeostasis by removing protein aggregates and damaged organelles, whereas starvation induced autophagy prolongs cell survival by recycling amino acids and energy, which are both important for cellular fitness and preserving viability [53], [54]. The basal level of autophagy increases in cancer cells to withstand stresses due to dysregulated signaling mediated proliferation [55], enhanced glycolysis [56], hypoxia [57], and to maintain cancer cells in a state of quiescence [58]. However, autophagy can promote tumor cell survival [59] or cell death [60] depending upon the tumor type, and thus, the implications of induced autophagy are not completely understood. It can be modulated therapeutically, either promoting survival or death [61], [62].
+4.1. Autophagy inducers
+mTOR, which is part of a larger mechanistic target of rapamycin complex 1 (mTORC1), normally inhibits autophagy. When mTOR is inhibited by stress signals (e.g., HIF, dysregulated PI3K/Akt and elevated p53) [63], [64], the Beclin 1/class III PI3K complex is activated [65], which promotes autophagy [66]. Alternatively, antiapoptotic B cell leukemia/lymphoma-2 (Bcl-2) family proteins, overexpressed in multiple tumor types, inhibit apoptosis and autophagy [67], suggesting that small molecule antagonists of Bcl-2 and related molecules (e.g., Bcl-2 larger isoform, Bcl-XL), known as BH3 mimetics (ABT-737/263, obatoclax), can competitively disrupt the Beclin 1-Bcl-2/Bcl-xL interaction to trigger autophagy [67] and apoptosis. A variety of mTORC1 inhibitors have been considered as antitumor agents that block proliferation. These include rapamycin, temsirolimus, deforolimus, metformin [68], [69], the dual PI3K-mTOR inhibitors NVP-BEZ235 [70] and PI-103 [71], as well as combinations of these and other agents that induce autophagy [72], [73] (Fig. 2). Interestingly, several polyphenolic compounds, such as resveratrol [74], curcumin [75], rottlerin, genistein, and quercetin [76], were reported to induce autophagy and cancer cell death, suggesting that these compounds may be clinically valuable in cancer treatment and/or chemoprevention.
+
+Fig. 2. Major pathways of autophagy and natural compounds that inhibit these pathways. Autophagy inducers such as starvation (which may occur during hypoxic conditions) modulate the activity of the phagophore, consisting of the Atg1/unc-51-like kinase (ULK) complex, Beclin 1/PI3K complex, ubiquitin-like proteins (several Atg proteins), and proteins that mediate fusion between autophagosomes and lysosomes. Phagophore formation could be blocked with PI3K inhibitors. Autophagy induction involves budding of autophagosomes from the ER membranes, and inhibits interaction of TORC1 with the ULK1/2 complex. The latter regulates the activity of Beclin 1/class III PI3K complex. Beclin 1 interacts with factors that modulate its binding to Vps34, the catalytic unit of the PI3K, whose lipid kinase activity is essential for autophagy. This step could also be pharmacologically blocked. Fully mature autophagosomes can fuse with endosomes to form amphisomes. Autophagosomes or amphisomes fuse their external membranes with those from acidic lysosomes to acquire hydrolytic activity, degrade their cargo, and recycle essential biomolecules to the cytoplasm. Both fusion and degradation could also be inhibited by a variety of compounds, suggesting that autophagy would be a viable target in early stages of carcinogenesis [689].
+4.2. Autophagy inhibitors
+Knockdown of genes mediating autophagy [77], [78] may contribute to tumor regression, as has been seen in human pancreatic cancer [79]. Human cancer cell lines harboring activating mutations in H-ras or K-ras have high basal levels of autophagy that promotes survival. Inhibition of autophagy in these lines reduces tumorigenicity [79], [80]. Inhibition of autophagy also sensitizes tumor cells to alkylating agents and cetuximab [81]. In apoptosis defective leukemic and colon cancer cell lines, inhibition of autophagy sensitized resistant cells to TNF related apoptosis inducing ligand (TRAIL)-mediated apoptosis [82]. The natural compound, matrine, is a novel autophagy inhibitor that modulates the maturation of lysosomal proteases [82]. Combination therapies involving drugs that modulate autophagy are being classified as early or late stage inhibitors. Early inhibitors include 3-methyladenine, wortmannin and LY294022, which target the class III PI3K [83]. Late stage inhibitors include the antimalarial drugs bafilomycin A1 (which targets a vacuolar adenosine triphosphatase) [84], as well as monensin and chloroquine, both of which prevent the acidification of lysosomes [85]. Microtubule disrupting agents (e.g., taxanes, nocodizole, colchicine and vinca alkaloids) inhibit fusion of autophagosomes to lysosomes, thereby preventing steps in the formation of vacuoles that mediate autophagy. In addition, clomipramine (an anti-depressant) and lucanthone (an antischistome drug) block autophagosome degradation [86], [87], suggesting new indications for existing drugs (Fig. 2). These observations imply that the modulation of autophagy may be an important therapeutic target in fighting cancer.
+Similar to hypoxia, autophagy represents a viable way to treat cancer independent of targeting individual driver mutations. However, the main issue is that blocking or inducing autophagy appears to have opposite effects in different tumor types. Thus, markers to indicate which outcome would result must be identified before this line of targeting can be considered. Recently, a number of natural products were shown to be modulators of autophagy, such as bafilomycin A1 [88], [89], feroniellin A [90] and oblongifolin C [91].
+5. Survival and growth of cancer stem cells (CSCs)
+5.1. Distinguishing features of adult and cancer stem cells
+Stem cells (SCs) and CSCs share similar characteristics of “stemness,” quiescence, self renewal, the ability to produce differentiated progeny, resistance to apoptosis, and chemoresistance [92], [93], [94], [95], [96], [97], [98], [99], [100], [101], [102], [103]. What distinguishes CSCs from adult SCs is the aberrant regulation of these processes in the former, resulting in altered cell fate and unregulated cell growth [94]. Aberrant Hedgehog (Hh), Notch and Wnt pathways, either through overexpression of wild type signaling molecules, or by activating mutations in these signaling pathways, contribute to the malignant conversion of adult stem cells to CSCs [103]. Further, the PTEN tumor suppressor maintains adult stem cells in quiescence, while in CSCs, PTEN is often mutated or deleted, resulting in increased expression of genes that promote the cell cycle and DNA replication.
+The tumor mass contains a small proportion of CSCs that initiate/maintain malignant growth and differentiated progeny of these CSCs that do not [104], [105]. Adult SCs divide asymmetrically, giving rise to a differentiated daughter cell and progenitor cell capable of a limited number of additional cell divisions [106]. In contrast, CSCs divide symmetrically into progenitor cells that possess an unlimited replicative potential that allows them to undergo an indefinite number of cell divisions. The latter may explain tumor relapse after initial therapy, where most of mature tumor cells are eliminated, while therapy resistant CSCs become reactivated and proliferate. Initial tumor responses might mean little if CSCs determine outcome [107], suggesting that CSCs are the cells that must be effectively targeted to achieve a definitive cure [107], [108].
+5.2. Stem cells and cancer initiation
+Since the pathogenesis of cancer involves the appearance of driver mutations in long lived adult SC [109], only cells with self renewal capacity, especially in tissues with high cellular turnover (e.g., skin, intestine [109], breast [110], [111], [112] and hematopoietic cells [104], [113]), should be most susceptible to malignant transformation. In chronic myelogenous leukemia (CML) [90], for example, the breakpoint cluster region/Abelson (Bcr-Abl) translocation appears at the beginning of the hematopoietic differentiation tree [114], implying an intimate relationship between SC, mutation, and tumor development. In some cancers, germline mutations in tissue SC (e.g., in colon cancer and medulloblastoma) also suggest a central role for these cells in tumor pathogenesis [115], [116]. In other cancer types, including solid tumors [117], [118], dedifferentiation and the reacquisition of the stem-like phenotype in mature cells may also be involved (e.g., observed in the pathogenesis of melanoma, breast and pancreatic cancers) [119], [120], [121], [122]. This will influence the choice of cell target and the timing at which therapeutic intervention will have the greatest impact. However, phenotypic plasticity in tumors may preclude a simple approach to therapeutic intervention, since selected cell types in a tissue may have acquired the “stemness” phenotype in a given microenvironment.
+Constitutively expressed oncogenes also contribute to cancer development, not just by inducing proliferation, but also because of their capacity to reprogram the epigenome of the target cell [123]. Reprogramming of differentiated cells can be achieved by the transient expression of the transcription factors octamer binding transcription factor 4 (Oct4), Kruppel-like factor 4, Nanog, and myc that “reset” the epigenetic status of cells and allow them to adopt a plethora of fates, including extended proliferation [123] (Fig. 3). If CSCs arise through a reprogramming like mechanism, then early intervention that target CSCs may be critical for the development and success of therapeutics.
+ 
+
+Fig. 3. Cancer stem cells (CSCs) arise from tissue specific stem or progenitor cells that have undergone changes in gene expression (reprogramming) as a result of epigenetic mechanisms and/or oncogenic mutations. These CSCs undergo proliferation and differentiation into tumor cells. Standard therapeutic approaches target mostly the differentiated tumor cells, which reduce the bulk of the tumor, but CSCs are resistant to most therapies that are effective against the bulk of the tumor cells. In this model of carcinogenesis, it will be important to target key alterations in gene expression that drive reprogramming, be they natural compounds that epigenetically downregulate the expression of genes that contribute to reprogramming, and/or drugs that are effective against molecules that acquire driver mutations. Thus, blocking the reprogramming and proliferation of stem cells is likely to contribute importantly to cancer chemoprevention.
+5.3. What regulates quiescence in stem cells?
+If stem cell activation is important to the pathogenesis of cancer, maintaining stem cell quiescence and inhibiting their proliferation may have therapeutic value. This may prevent or delay the onset of primary tumors (e.g., in CML, melanoma, breast cancer, non small cell lung cancer, and osteosarcoma) [124], [125], [126], [127], [128], and help to prevent metastasis or relapse [129], [130]. Micrometastases are quiescent for lengthy periods, and during this time, are resistant to most therapeutic approaches that target cell proliferation. This is why it is important to understand dormancy and growth regulation in stem cells.
+Quiescence is most likely controlled by a combination of cell intrinsic and cell extrinsic (niche) interactions. The intracellular or “cell intrinsic” signals resemble normal processes that control cell cycle progression and survival. Thus, therapies that target G1 regulators (such as cyclin D), cyclin dependent kinase 4 (cdk4) or p27, or apoptotic regulators (such as Bcl-2), might be effective. Two canonical developmental pathways, Wnt/β-catenin and Hh, appear important in the self renewing potential of CSC [131], [132]. Wnt and Hh are generally inactive in somatic adult cells, but are reactivated in adult SCs and CSC. The metastasis suppressor gene, mitogen activated protein kinase kinase 4, is part of a growing lists of genes that block proliferation through the activation of MAPK p38 [133], [134], [135], suggesting they may become therapeutic targets.
+On the cell extrinsic side, the chemokine ligand 12 (CXC-12) and corresponding receptor (CXCR-4) interaction is required for breast, prostate, and multiple myeloma (MM) CSC colonization and subsequent quiescence [136]. In CML and MM, CSC can be mobilized from quiescence into the cell cycle by the addition of granulocyte colony stimulating factor (G-CSF), which degrades CXCL-12, or by an antagonist of CXCR-4 [137]. In the clinic, however, G-CSF has had mixed results, since it impacts both CSCs and adult SCs [137]. Thus, caution must be applied, as therapies should not affect or deplete adult SCs.
+As the CSC fate decision is most likely controlled epigenetically, various transcription factors have been implicated in these processes. For example, CCAAT/enhancer binding protein alpha (C/EBPα) appears to regulate myeloid differentiation and self renewal of fetal liver hepatic SCs. Myeloid Elf-1-like factor is a transcriptional activator [138], [139] that promotes the G1- to S-phase transition and enhances the movement of hepatic SCs out of a quiescent state (Go-phase) into the cell cycle [140], [141]. The proangiogenic factor, angiopoietin-1, inactivates glycogen synthase kinase 3β (GSK3β) via phosphorylation, thereby releasing active β-catenin, which then migrates to the nucleus and upregulates the expression of genes that promote cell survival (by blocking apoptosis) and cell proliferation [142]. However, caution must be exercised in pursuing any of these as putative therapeutic targets, since the development of corresponding drugs would probably be associated with the appearance of considerable toxicity.
+6. Targeting cell cycle proteins in sustained proliferative signaling
+Cell cycle progression is controlled by cyclin-cdk complexes, that include cdk interacting protein p21CIP1, kinase inhibitory proteins (Kips) (p27KIP1, p57KIP2), and INhibitors of CDK4 (INK4s: p16INK4a, p15INK4b, p18INK4c, p19INK4d), which activate and inhibit these complexes, respectively [143]. The G1 phase of the cell cycle is the only time that a cell can respond to extracellular cues, and progression depends on the balance of proliferative and antiproliferative signals. In the presence of “go” signals, progression into S phase occurs; in the presence of “stop” signals, the cell arrests in G1. Thus, cancer can be thought of as a disease of the cell cycle: where a cancer cell ignores the “stop” signals and does not wait for the “go” signals. The result is excessive DNA replication, which increases the likelihood of replication induced mutations and telomere degeneration, further disabling other hallmark pathways.
+6.1. Retinoblastoma (Rb) pathway
+The Rb pathway (INK4-cyclin D-cdk4/6-Rb), which controls the G1-S phase transition, is universally disrupted in human cancer. Cyclin D-cdk4/6 complexes initiate G1 progression by phosphorylating (inactivating) Rb, thus relieving transcriptional repression by the Rb-E2F complex (Fig. 4). Following Rb phosphorylation, E2F is released, inducing transcription of genes necessary for S-phase entry. Although Rb loss occurs in some tumor types, most cancers retain wild type Rb, and instead have mutated or activated cell cycle proteins that regulate Rb. In other tumor types, cell cycle proteins downstream of oncogenic pathways are frequently altered posttranslationally, demonstrating that these represent targets in cancer therapy [144].
+ 
+
+Fig. 4. Selected natural products that block cell cycle progression. Receptor activation, via Raf, MEK, ERK, and AP1, increases cyclin D1 transcription. Cyclin D1 binds to cdk4 and the assembly factor, p27Kip1 to create an active ternary complex. This complex can be inactivated by association with Ink4A or loss of cyclin D1 via GSK-3β-mediated proteasomal degradation. Active cyclin D-cdk4-p27 complexes phosphorylate (inactivate) Rb, causing limited transcriptional activation of cyclin E. Increased cyclin E levels shifts the balance of inactive cyclin E-cdk2 complexes to active cyclin E-cdk2 complexes, which in turn phosphorylates its associated p27, targeting it for proteasomal degradation. p27-free cyclin E-cdk2 complexes now fully phosphorylate Rb, causing S phase gene transcription, and progression into S phase, where the cell cycle proceeds independently of extracellular signals. As shown in red, many natural compounds cause G1 arrest in several cancer cell culture models, due to effects on cyclin D1, p21, p27 or cyclin E. Some of these acts via altered expression of microRNAs.
+Modified from reference [634].
+6.2. Cyclins D and E
+The gene encoding cyclin D is the second most amplified locus in human cancer, and is directly downstream from many oncogenic pathways, suggesting it may be a good therapeutic target. In cancer, cyclin D-cdk4/6 activity may be increased by cdk4 and cdk6 amplification, mutation of cdk4 to an inhibitor resistant form, or loss of the INK4 inhibitors. Perhaps the best justification for targeting these molecules comes from clinical trials for the treatment of breast cancer, where palbociclib, a cdk4/6 specific inhibitor, delayed disease progression in human epidermal growth factor receptor 2 (HER2)+, estrogen receptor (ER)+ postmenopausal women. In addition, since cyclin D is transcriptionally linked to mitogenic signaling pathways, is expressed throughout the cell cycle, is degraded by GSK3β (which itself is a therapeutic target), and showed managable toxicity in clinical trials, suggests that cyclin D may be an important target for continued drug development [144].
+Amplification of cyclin E or cdk2 is detected in some tumor types, but this is rare compared to cyclin D-cdk4/6 [145]. Cyclin E-cdk2 may be a good target, as its activation is a major consequence of Rb dependent phosphorylation. However, cdk2 activates origins of DNA replication, explaining its infrequent deregulation in tumors. Inactivation of the Rb checkpoint may also trigger cyclin E-cdk2 independent functions, such as the ability to overcome senescence. Moreover, several cdk2 inhibitors have failed in clinical trials for unknown reasons.
+6.3. Cdk inhibitors
+The cdk inhibitors of the INK4 class block cyclin D-cdk4/6 activity. They do not have additional targets, suggesting that therapeutic intervention could be highly specific. However, therapeutic restoration of INK4s presented problems, in that these loci are frequently deleted or mutated, which would preclude reactivation. For many cancers, frequent epigenetic inactivation of INK4 is due to extensive CpG methylation [146] raising the possibility that natural products capable of modulating DNA methylation such as EGCG, folate, and genistein are potential agents capable of reactivating INK4 genes [147].
+The tumor suppressor, p27Kip1, inhibits cyclin E-cdk2, which would potentially block tumor growth. p27 levels are reduced posttranslationally with increasing tumor grade, resulting in increased cdk2 activity [148]. Re-expression of p27 could be achieved by interfering with protein turnover. The S-phase kinase associated protein 2 (Skp2) is the E3 ubiquitin ligase responsible for p27 degradation. Thus, Skp2 and p27 expression is inversely correlated [149], [150]. Bortezomib-mediated proteosomal inhibition in multiple myeloma and mantle cell lymphoma [151], [152] resulted in significant side effects, suggesting that more specific targets upstream from the proteasome might be less toxic. However, p27 inhibits cdk1 and proliferation of cdk2−/− mouse embryo fibroblasts, and also stabilizes the cyclin D-cdk4 complex, suggesting that targeting p27 may have global, deleterious effects.
+7. Molecular pathways regulating tumor proliferation
+Most clinically available targeted therapies focus on blocking the constitutive activation of signal transduction pathways (Bcr-Abl, EGFR, HER2, c-Met, and Raf). While these have initially been effective at blocking tumor proliferation, the emergence of resistant clones is a frequent clinical observation, suggesting that alternate therapeutic pathways should be investigated. Therefore, this part of the review will briefly introduce some of the major pathways that impact cell proliferation and fate, and that are targets for one or more natural compounds.
+7.1. Wnt/β-catenin signaling
+Wnt/β-catenin signaling is a developmental signaling pathway that regulates cell proliferation, differentiation, migration, polarity and asymmetric cell division [153], [154]. It plays critical roles in embryonic stem cells [155], and can improve reprogramming of somatic cells toward induced pluripotent stem cells, highlighting the importance of this pathway for self renewal and pluripotency [156], [157].
+Aberrant Wnt/β-catenin signaling is implicated in numerous cancers (e.g., colorectal and breast cancers) [158], [159], [160], [161], [162]. Most involve stabilization of β-catenin by mutation which is often associated with tumor aggressiveness. Alternatively, aberrant Wnt signaling is due to either the inactivation of negative regulators of the Wnt signaling pathway, such as Frizzled related protein [161], or overexpression of positive regulators, such as disheveled [162]. In Wnt-1 transgenic mice, expanded mammary stem/progenitor cell populations are associated with the development of preneoplastic lesions or tumors [163], [164]. Thus, constitutive activation of β-catenin appears to promote the survival and growth of stem cells in the early stages of tumor formation, suggesting it is an important target. Fortunately, there are many natural compounds that block Wnt signaling (see below).
+7.2. Notch signaling
+Notch is a family of mammalian transmembrane receptors (Notch 1-4) for membrane bound ligands (JAG1, JAG2, delta-like 1-4). Upon binding, Notch receptors undergo cleavage, releasing a Notch intracellular domain, which migrates to the nucleus, where it targets genes such as cyclin D [165], p21CIP1 [166], NF-κB [167], and c-myc [168], [169], [170]. Notch proteins contribute to angiogenesis, proliferation, differentiation, and apoptosis [171], [172]. Notch signaling also contributes to cell fate in embryonic development, tissue homeostasis in adult tissues, and regulates stem cell maintenance and differentiation [173], [174].
+Notch signaling is detected in CSCs in breast cancer [175], [176], [177], embryonal brain tumors [178], gliomas [179], T cell leukemias, ovarian, cervical, colorectal, pancreatic, salivary gland, and lung carcinomas [93], [94], [178], [180], [181], [182]. In breast cancer, constitutive activation of Notch prevented differentiation of mammary epithelial cells in vitro and resulted in the appearance of poorly differentiated adenocarcinomas [183], [184], [185], [186], [187]. Further, HER2 [188], [189], [190], Akt [191], signal transducer and activator of transcription (STAT3) [101], NF-κB [192] were found to cross talk with Notch in breast CSCs [172], suggesting that Notch could impact breast cancer development and proliferation through these signals. In the hypoxic environment, HIFs activate Notch [3] and the expression of transcription factors such as Oct4 that control stem cell self renewal and pluripotency [4], [193]. Thus, elevated Notch signaling permits CSCs to survive and proliferate in a hypoxic microenvironment. Natural compounds, such as resveratrol (see below) [194], down regulate transcription of the Notch and PI3K/Akt pathways and may prevent tumor appearance.
+7.3. Insulin-like growth factor (IGF) signaling
+The IGF-1 receptor/ligand system is implicated in self renewal/pluripotency in hematopoietic and embryonic stem cells and supports cell growth/survival by activation of PI3K/Akt and Ras/Raf/extracellular signal regulated kinase [195], [196], [197]. Recently, Nanog was shown to have a crucial role in maintaining the self renewal of CSCs through the IGF-1 signaling in hepatocellular carcinoma [198]. IGF-1 signaling could also crosstalk with other pathways, such as Notch, EGFR, leptin and promotes the transition of adult SC to CSCs [172], [199], [200].
+7.4. PI3K/Akt/mTOR signaling
+The PI3K/Akt/mTOR pathway plays a central role in growth, proliferation, motility, survival and angiogenesis in tumor cells [201], [202]. mTOR is a ser/thr kinase that is a downstream target of PI3K/Akt in many types of cancer. Aberrant activation of mTOR by mutations or gene amplification [203], promotes cancer cell proliferation, EMT [204], and resistance to anticancer drugs [205], [206].
+PI3K/Akt/mTOR signaling plays a key role in CSC biology because this pathway is more sensitive to inhibition compared to healthy stem cells [191], [207]. mTOR inhibition also suppresses EMT and CSC-like characteristics in colorectal cancer [208]. However, inhibition of mTOR is complex because several downstream targets in this pathway [e.g., mTORC1, S6 kinase 1 and eukaryotic translation initiation factor 4E binding protein 1 may be regulated in an mTOR independent manner [209], [210], [211], [212], [213], [214]. Another challenge is to identify pharmacological profiles for mutations in these pathways. This could be aided using biomathematical algorithms like the COeXpression ExtrapolatioN (COXEN) model [215], [216], [217].
+7.5. NF-κB signaling
+NF-κB transcription factors regulate the expression of key genes for innate and adaptive immunity, cell proliferation and survival, and lymphoid organ development. NF-κB is activated in many cancers [218], [219], [220] by many divergent stimuli, including proinflammatory cytokines such as IL-1β, epidermal growth factor (EGF), T- and B-cell mitogens, bacteria and lipopolysaccharides, viruses, viral proteins, double stranded RNA, and physical and chemical stressors [220], [221], [222]. These events contribute to the link between inflammation and carcinogenesis. For example, NF-κB activation may be required for human ovarian CSC metastases [223], in human cervical CSC growth and migration [224], and in keeping differentiating glioblastoma CSCs from acquiring a mature post mitotic phenotype [225]. Mammary epithelial NF-κB also regulates the self-renewal of breast CSCs [226]. Thus, NF-κB is an important therapeutic target in carcinogenesis.
+7.6. Hedgehog signaling
+Hh signaling controls tissue polarity, patterning, and stem cells maintenance in a variety of tissues [227], [228], [229], [230]. In vertebrates, three Hh ligands [Sonic Hedgehog (Shh), Desert Hedgehog, and Indian Hedgehog] bind to trans-membrane receptors [Patched (Ptch1 or Ptch2)]. Upon ligand binding, the complex containing Ptch and its inhibitor Smoothened (Smo) dissociates. Smo activates Gli transcription factor which translocates into the nucleus and initiates transcription of target genes that regulate the properties of stem cells [231], [232].
+Regulation of CSC proliferation in various human tumors including glioblastoma, breast cancer, pancreatic adenocarcinoma, MM and CML is through Hh signaling [97], [233], [234], [235], [236], [237], [238], [239], [240], [241]. Use of the SMO antagonist cyclopamine or the Hh ligand neutralizing antibody 5E1 induced terminal differentiation and loss of clonogenic growth in gastric CSCs from primary tumors [242], [243]. Mouse models of CML also suggest that Hh regulates the self renewal property of the tumor cells [240], providing an important preclinical model for intervention studies with natural compounds. Thus, Hh affects CSCs self renewal and differentiation [244]. IL-6 stimulated the growth of acute myeloid leukemia cells through Hh, and this effect was blocked by the natural compound resveratrol. Shh-Gli signaling controls the characteristics of pancreatic CSCs, and these are inhibited by the use of sulforaphane [132], [245].
+8. Is there a relationship between altered cellular metabolism and proliferation?
+The contribution of altered cellular metabolism to cancer is exemplified by nonalcoholic fatty liver disease (NAFLD) [246], which includes alterations that range from triglyceride accumulation in hepatocytes (steatosis) to steatosis with inflammation (nonalcoholic steatohepatitis or NASH), with or without fibrosis [247], [248]. NASH patients with liver fibrosis are at risk for the development of cirrhosis [249] and hepatocellular carcinoma (HCC). At the molecular level, altered methionine metabolism plays an essential role in the molecular bases of NAFLD related HCC.
+Chronic liver disease among patients with cirrhosis is partially characterized by elevated serum levels of methionine [250], [251]. The latter is associated with decreased methionine adenosyltransferase (MAT), and the product of its reaction, S-adenosylmethionine (SAM) [252], [253]. MAT deficient mice developed chronic hepatic SAM deficiency, display increased proliferation, and spontaneously develop HCC [254]. SAM is a major methyl donor, where it mediates up to 85% of the methylation reactions in the liver, thereby promoting homeostasis [255]. Since SAM is also a precursor of the antioxidant glutathione (GSH), both are decreased in patients with cirrhosis. Treatment of these patients with SAM increased GSH levels and improved survival [255], [256], suggesting the therapeutic use of SAM to treat liver diseases [257]. Conversely, mice deficient in the glycine N-methyltransferase gene, which encodes the enzyme responsible for SAM catabolism, developed elevated SAM, methionine, serum transaminase levels [258], hepatic steatosis, fibrosis and HCC [258], [259], [260], [261]. Therefore, altered methionine metabolism resulted in increased proliferation through decreased levels of MAT and GSH.
+In cancer, proliferating cells require rapid ATP generation, increased biosynthesis of macromolecules, and maintenance of an appropriate cellular redox status [262]. For example, the tumor suppressor, p53, stimulates glycolytic enzymes and the pentose phosphate pathway, which provide substrates for macromolecular synthesis. In addition, the M2 isoform of pyruvate kinase (PKM2), which converts phosphoenolpyruvate to pyruvate, attenuates glycolysis, thereby providing precursors for macromolecular synthesis and cell proliferation [263]. In these same reactions, PKM2 also promotes the development of nicotinamine adenine dinucleotide phosphate (NADPH) which provides reducing power for macromolecular synthesis as well as quenches free radicals. NADPH also contributes importantly to controlling the redox state of cells. At low levels, free radicals promote cell proliferation by activating signaling pathways [264], [265]. At moderate levels, free radicals promote stress responsive genes (e.g., HIF-1α) and cell survival [266], [267], while at high levels, free radicals cause macromolecular and organelle damage, triggering senescence or apoptosis, and in surviving cells, activating antioxidant pathways [268], [269]. Thus, the control of free radical levels by cancer cells promotes proliferation but not the appearance of detrimental mutations. In this context, many natural polyphenols (see below) alter cancer cell metabolism by reducing intracellular free radicals to very low levels, thereby inhibiting the appearance of mutations and unwanted proliferation.
+9. The role of estrogen and androgen receptors in cancer cell proliferation
+Hormones are signaling molecules secreted by cells that modulate the function(s) of target tissues. This encompasses paracrine, autocrine, and intracrine hormonal actions. As one of the main functions of hormone stimulation is cell cycle regulation, it is not surprising that hormonal disregulation is involved in cancer progression. Hormone related cancers [270] make up almost 30% of all cancer cases, and include cancers of the breast, ovary, endometrium, prostate, and testis [271].
+As cancer initiators, steroid hormones could cause irreversible damage to the genotype of the cell. For example, high doses and long term treatment with 17β-estradiol (E2) results in DNA damage among rodents [272], [273]. However, it is unlikely that at physiological levels, estrogens and other hormones are carcinogens, and instead stimulate mitosis by shortening G1 and promoting entry into S phase [274]. For example, steroid hormones stimulate the proliferation of normal cells, increasing the chances of a cell acquiring DNA damage and oncogenic mutation as well as cells mutated by an initiator. Thus, deranged hormone signaling pathways can promote cancer. However, there is a lack of translational applications of this information, due to the complicated signals activated by hormones through their different receptors [275].
+Two estrogen receptors (i.e., ERα and ERβ) and one androgen receptor (AR) mediate the mitogenic effects of estrogens and androgens, respectively. After ligand binding, the ligand-receptor complexes translocate to the nucleus where they recruit cofactor proteins and the basal transcription machinery onto estrogen or androgen responsive elements, respectively [274], impacting proliferation at the level of transcription.
+Sex steroid hormones also signal through plasma membrane bound forms of AR and ER [276]. For some cancers, this occurs through activation of extracellular signal regulated kinase 1 in the MAPK family and via Akt in the PI3K pathway. These ERα-dependent pathways transduce proliferative, antiapoptotic and migration signals [277], [278], [279]. In this context, membranous ERα staining was observed in up to 1/3 of the cases in which the tumor was classified as ERα negative on the basis of ERα nuclear expression. Membrane ERα expressing breast cancers also show a strong positive correlation with phosphorylated Akt and HER2 overexpression [280], the latter of which is characteristic of ‘invasive carcinoma’ [281]. In addition, ERα plasma membrane localization and its interactions with IGFR1 and EGFR/ErbB2 may be one of the mechanisms underlying the development of drug resistance in breast cancer cells [282], [283]. Androgen independent prostate cancer is also mediated by IGFR-1/IGF-1 [284] and elevated EGFR/ErbB-2 [285], combined with downstream Akt [286], [287] and Janus kinase (JAK)/STAT [288] and MAPK signaling. These pathways activate AR, which translocates to the nucleus, where it alters host gene expression that promotes cell survival, proliferation, and metastasis. As indicated below, there are a number of natural compounds which target one or more of these pathways. While the success of surgical or medical castration has been demonstrated in androgen dependent tumors, the utility of natural compounds in androgen independent tumors will depend upon the mechanisms whereby androgen independence is achieved. This may include AR overexpression, AR mutations, altered recruitment of transcription cofactors, and/or sustained intratumoral synthesis of dihydrotestosterone, which binds to and activates the AR in the androgen dependent phase of prostate cancer [289].
+Deregulation of ERα- and ERβ-mediated signal transduction, together with the deregulation of nuclear receptor activities, may explain the role of estrogen in promoting breast cancer [275]. In this respect, ERα positive breast tumors are treated with drugs that interfere with the availability of endogenous E2 (e.g., aromatase inhibitors) or ERα transcriptional activity (e.g., 4OH-tamoxifen) [290]. The same drugs could act on ERβ signaling, even if the expression of this receptor subtype is inversely correlated with the development of several cancers [291]. Thus, a selective agonist for ERβ could promote strong antiproliferative intracellular signals in breast, colon, and prostate tissues, where ERβ functions as a growth repressor and a dominant negative inhibitor of ERα-mediated proliferation [292], [293]. In spite of these data, the role of the membrane initiated ER signaling in tumors has been underestimated. Nuclear localization of ERs [294], [295] is now considered to have prognostic significance. Very few drugs for breast cancer have been shown to target ERs extranuclear mechanisms [283].
+Anticancer drug development has been characterized by two different approaches: the chemical modification of preexisting therapeutics and the selection of new molecular targets. The latter approach better overcomes the limitations of available clinical treatments and could provide an opportunity to expand antihormonal treatments in new directions. A further promising strategy would rely on targeting ER membrane proliferative actions, but this remains to be explored.
+10. The impact of stromal cells on tumor growth
+Stromal components in tumor microenvironment contribute centrally to tumor progression and metastasis. Reciprocal interactions occur between neoplastic cells and stromal components leading to coevolution. In this context, either stromal cells support transformation of epithelial cells, or transformed tumor cells engage stromal cells, and the altered environment can influence the metastatic, dormancy related, and stem-like potential of tumor cells [296]. The stromal compartment of the tumor is complex, consisting of inflammatory/immune cells, endothelial cells (vascular), pericytes, fibroblasts, adipocytes and extracellular matrix components (e.g., collagen, fibronectin, laminin and proteoglycan complex). Tumor infiltrating inflammatory cells release EGF, VEGF, fibroblast growth factor-2 (FGF-2), chemokines, cytokines, and proinvasive matrix degrading enzymes to promote tumorigenesis [47], [297], [298]. Continued tumor growth and progression is mediated by the “angiogenic switch,” which occurs in response to VEGF and FGF-2 secreted from tumor cells, resulting in angiogenesis [299], [300], [301]. Adipocytes in the tumor microenvironment produce ‘adipokines’ [302], [303] such as leptin, adiponectin, hepatocyte growth factor, collagen VI, IL-6 and TNF-α, which are important for tumor growth. Fibroblasts in the tumor microenvironment provide the structural framework of the stroma [304]. Fibroblasts remain quiescent, but they proliferate during wound healing, inflammation and cancer. Paracrine factors from tumor cells activate fibroblasts to become “cancer associated fibroblasts” (CAF) [305], [306]. CAFs secrete factors that modulate tumor growth and modify the stroma to facilitate metastasis [307], [308] and attenuate responses to anticancer therapies [309], [310]. Thus, tumor stromal crosstalk is important when developing therapeutic options, since tumor centric approaches may not work in a stroma rich tumor microenvironment.
+11. Natural and dietary substances that block cancer proliferation and augment anticancer therapy
+More than half of current drugs originally came from natural products. Plant derived anticancer agents that block proliferation, resulting in cell cycle arrest and apoptosis, include vinblastine, etoposide, teniposide, homoharringtonine and camptothecin derivatives [311]. Epidemiological studies have shown that natural products and nutritional substances may be active in cancer chemoprevention. These have been most extensively described in colon, prostate and breast cancers.
+Contrary to conventional chemotherapy, which exhibits cytotoxic effects against all dividing cells, targeted therapeutic drugs are active against proliferating cells involved in tumor progression. Targets of these therapeutic approaches include Bcr-Abl kinase (e.g., imatinib [312], nilotinib [313], and ponatinib [314]), EGFR (gefitinib [315] and erlotinib [316]), HER2/ErbB2 (lapatinib [317]), and c-Met (crizotinib [318]). Although initially effective, relapse is common, resulting in the appearance of drug resistance, the activation of alternative signaling pathways, and/or the generation of chemoresistant CSCs [319], [320]. Given that cancer is multistep, targeting multiple pathways may yield stronger antitumor activities. Accordingly, some of the leading natural compounds used in cancer therapy and in chemoprevention are presented below as examples of their potential utility in the pathogenesis of cancer.
+11.1. Curcumin
+Curcumin (diferuloylmethane), a yellow spice and phenolic compound derived from the plant Curcuma longa, is one of the most powerful and promising chemopreventive and anticancer agents [321] (Fig. 5). The consumption of a curcumin rich diet is inversely correlated with several human malignancies [322]. Curcumin blocks cancer cell proliferation by targeting Wnt (Table 2), NF-κB, STAT3, PI3K/Akt [323] (Fig. 6) and mTOR [324]. Curcumin also has fewer side effects than conventional therapy [325], [326]. Curcumin indirectly affects tumor proliferation by altering the expression miRNAs, which regulate cellular signaling implicated in tumor cell proliferation. For example, the antiproliferative activity of curcumin against pancreatic cancer cells has been shown to be mediated by modulating the miR-200 family, which in turn regulates EMT [327]. Further, curcumin and its synthetic analog, diflourinated curcumin, downregulate miR-21 expression [328] and reduced the expression of Bcl-2 by upregulating miR-15a and miR-15b [329], indicating that curcumin impacts upon proliferation, in part, by epigenetic mechanisms. A major problem with curcumin is its low bioavailability, prompting the development and evaluation of structural analogs of curcumin, stabilization of curcumin with adjuvants (e.g., piperine), liposomal and nanoparticle associated curcumin, and the development of curcumin phospholipid complexes, aimed at increasing bioavailability while antitumor properties are maintained [330].
+ 
+1.	Download : Download high-res image (503KB)
+2.	Download : Download full-size image
+Fig. 5. Examples of anti-proliferative compounds obtained from natural sources.
+Table 2. Summary of selected natural compounds active against Wnt signaling in cell proliferation.
+Compound	Effects	Cancer model	Concentration/dose	References
+EGCG	Reduced nuclear β-catenin; blocks β-catenin/TCF mediated transcription; increase Wnt inhibitor (WIF1)	Non small cell lung cancer (NSCLC) cells, breast cancer cells; familial adenomatous polyposis (APCMin/+) mice	NSCLC 0–50 μM; breast: 0–100 μM
+APC mice: high fat diet + 0.16% EGCG	[436], [437], [438], [439]
+
+Resveratrol	Inhibits β-catenin migration to nucleus; disrupts β-catenin/TCF binding	Colorectal cancer cells	0–20 μM	[440], [441]
+
+Genistein	Suppresses β-catenin/TCF mediated transcription; up-regulates GSK3β and E-cadherin; blocks Wnt signaling by down-regulation of miR-1260b; increase in DKK1	Gastric, renal, prostate, and colorectal cancer cells	Gastric: 0–100 μM; renal: 25 μM; prostate: 25–50 μM; colorectal: 75 μM	[442], [443], [444], [445], [446], [447]
+
+Curcumin	Decreases nuclear β-catenin; blocks β-catenin/TCF-mediated transcription; down-regulates Wnt4, GSK3β and Frizzled	Breast and colorectal carcinoma cells; neuroblastoma cells	Breast: 0–70 μM; colorectal: 20 μM; neuoblastoma: 0–20 μM	[448], [449], [450], [451]
+
+Vitamin A	Inhibits Wnt/β-catenin signaling; vitamin receptor competes with β-catenin for TCF; blocks GSK3β	Transformed human bronchial epithelial cells	4 μM	[452]
+
+Vitamin D	Inhibits β-catenin signaling, induces E-cadherin	Colorectal carcinoma cells	0.1 μM	[453], [454]
+
+Lycopene	Reduced nuclear β-catenin via attenuating GSK-3β phosphorylation	Prostate cancer clinical trials	5–50 mg/kg	[455]
+
+ap-XSC + docosahex-aenoic acid -3 fatty acid	Target(s) unknown	Colorectal cancer	2.5–5 μM	[434]
+
+ap-XSC
+Pathway target(s) unknown	Apc mice a model for familial adenomatous polyposis	High fat diets containing 10–20 p.p.m.	[435]
+
+a
+1,4-phenylene bis(methylene) selenocyanate.
+ 
+1.	Download : Download high-res image (394KB)
+2.	Download : Download full-size image
+Fig. 6. Impact of various natural compounds upon selected growth promoting signaling pathways. When proliferation is triggered by growth factor signaling, there are a number of natural compounds that could inhibit growth. For example, vitamin A, which promotes differentiation, downregulates ras signaling. Resveratrol could block downstream signaling components such as ERK, AP-1, and alternative pathways, such as Hedgehog. Other signaling pathways that promote growth, such as Wnt, cytokine triggered STAT signaling, and receptor mediated activation of NF-κB, could be blocked, in part, by a variety of natural compounds. This suggests that a combination of natural compounds could have a significant impact upon proliferation, even at early stages of carcinogenesis, by inhibiting normal signaling pathways.
+11.2. Indole-3-carbinol, 3,3-diindolylmethane, sulforaphane and brassinin
+Indole-3-carbinol, a natural hydrolysis product of glucobrassicin in cruciferous vegetables (Fig. 5), blocks tumor cell proliferation by modulating expression of the IGFR1, the insulin receptor substrate-1, and by triggering degradation of the ERα [331]. Such vegetables also contain sulforaphane, a naturally occurring organosulfur compound formed by the hydrolysis of glucosinolates. Sulforaphane may lower the risk of colon, prostate, and perhaps other cancers [332]. sulforaphane blocks proliferation, induces cell cycle arrest in vitro, and has anticancer activity in animal models [333]. Sulforaphane also suppresses NF-κB and the Wnt/β-catenin self renewal pathways in CSCs [334], [335] (Fig. 6). Sulforaphane appears to synergize with sorafenib in shrinking pancreatic cancer by blocking proliferation, angiogenesis, and EMT [336]. Another indole compound derived from cruciferous vegetables, brassinin, arrests cancer cells in G1 via blocking PI3K signaling and upregulating p21 and p27 [337]. In comparison, 3,3-diindolylmethane increased the expression of miR-21 which reduced the expression of its target gene, cell division cycle 25 homolog A [338]. Moreover, 3,3-diindolylmethane has been shown to increase the level of the miR-200 family in pancreatic cancer cells, which impacts EMT [327].
+11.3. Resveratrol
+Resveratrol (3,4′,5-trihydroxy-trans-stilbene) is a polyphenolic compound found in the skin of grapes, in red wine, peanuts and mulberries (Fig. 5). Resveratrol appears to have antiaging properties, cardiovascular protective and cancer prevention activities [339], [340], [341]. In cancer prevention, resveratrol blocks proliferation, promotes cell cycle arrest, and induces apoptosis by suppressing extracellular signal regulated kinase signaling, p53, Rb/E2F, cyclins and cdks. It sensitizes cells to extrinsic (Fas and TNF related apoptosis inducing ligand mediated) apoptosis by facilitating death receptor localization into membrane lipid rafts [342] and promotes intrinsic (mitochondrial) apoptosis, in part, by inhibiting survivin and Bcl-XL [343]. Resveratrol suppresses the activity of transcription factors involved in proliferation (e.g., NF-κB, activating protein 1 and the early growth response protein 1), MAPKs and tyrosine kinases (e.g., Src) [344], [345] (Fig. 6). Resveratrol also inhibits the proliferation of prostate cancer cells by inhibiting AR transcriptional activity, stimulating PTEN expression, and by blocking Akt phosphorylation [346]. Resveratrol blocks the activity of β-catenin by preventing its accumulation in the nucleus as well as binding to transcription factor 3 [346] (Table 2). Resveratrol suppresses IGFR1 and Wnt pathways in colon cancer cells [347]. Thus, in vitro studies strongly support a role for resveratrol in mediating cell cycle arrest or triggering apoptosis.
+Ingestion of resveratrol rich grape powder in humans suppressed expression of the Wnt target genes, cyclin D1 and axin in normal colonic mucosa, suggesting that Wnt pathway inhibition may contribute to resveratrol-mediated colon cancer prevention [348]. Constitutively activated Wnt is also proinflammatory [349]. Since many cancers are associated with prolonged inflammation and chronic tissue damage, resveratrol may also prevent tumor onset by attenuating the regenerative responses that accompany prolonged inflammation.
+Resveratrol blocks PI3K and Akt signaling, which strongly promote growth [350], by downregulating cdk2, cyclin D1 and proliferative cell nuclear antigen. In ovarian cancer, resveratrol downregulates Akt and ERK signaling [351] (Fig. 6) and may inhibit prostate cancer growth via the Akt/miR-21 pathway [352]. Resveratrol also suppresses phosphorylation of the NF-κB inhibitor, IκB [353], thereby inhibiting NF-κB [354]. Resveratrol also inhibits Hh [355] and Jak2/STAT3 signaling [356], which contribute to cell proliferation and cancer progression (Fig. 6, Table 3), suggesting that it may be useful in vivo.
+Table 3. Summary of selected natural compounds active against Hh signaling in cell proliferation.
+Compound	Effects	Cancer model	References
+Zerumbone	Induces apoptosis	Leukemia, breast cancer	[456], [457]
+
+Sulforaphane	Inhibits Shh signaling by blocking Gli transcription, proliferation and induction of apoptosis.	Pancreatic CSCs	[132], [245]
+
+Cyclopamine	Targets Smo protein	Targeted CSCs in murine medulloblastoma, pancreatic and breast cancers	[180], [458], [459]
+
+Curcumin	95% inhibition of Gli1 mRNA; 80% down-regulates Gli reporter activity	Medulloblastoma cells	[460]
+
+Apigenin, Baicalein, EGCG, Curcumin, Genistein, Quercetin, Cyclopamine, Resveratrol	95% inhibition of Gli1 mRNA; 80% down-regulates Gli reporter activity	Prostate cancer cells	[461]
+
+EGCG	95% inhibition of Gli1 mRNA; 80% down-regulates Gli reporter activity	Chondrosarcoma cells	[462]
+
+Resveratrol was shown to inhibit proliferation and NF-κB signaling in chemically induced rat liver carcinogenesis [357], [358]. In addition, resveratrol affected the expression TGF-β and forkhead box protein C2 by regulating miR-520h [359], suggesting that resveratrol, like cucumin, mediates its effects via epigenetic mechanisms. Although most in vivo studies show that resveratrol has antitumor activity, its antiaging properties are paradoxical in that they promote cell survival [360], [361]. These differences may depend upon bioavailability and serum concentrations and underscore the need to conduct carefully crafted clinical trials in the future. For example, the doses of natural compound(s) used for chemoprevention in “healthy” patients may be different than the generally higher pharmacologic doses given to patients already diagnosed with cancer, since in the former group, toxicity should be low, while in the latter group, the risk vs. benefit ratio would be more important.
+11.4. Flavonoids
+Flavonoids are polyphenolic herbal constituents with a wide range of antiallergic, antiinflammatory, antioxidant, antimicrobial and anticancer activities. Flavonoids inhibit hormone related cancers by modulating the activities of sex steroid hormone receptors [283], [362], [363]. Upon receptor binding, flavonoids reduce ERα association with the plasma membrane, impair ERα dependent proliferative signaling cascades, and promote apoptosis through the activation of ERα-mediated p38/MAPK [364], [365], [366]. This may explain the inverse correlation between the dietary consumption of flavonoids and the incidence of hormone related breast, prostate, testicular, and colorectal cancers [367], [368]. While data support the potential medicinal use of flavonoids for the treatment of ER related cancers, their low bioavailability [369], combined with the length of time it takes to run human clinical trials, has limited their use. Flavonoids were reported to exhibit a comparable activity to that of well known P-glycoprotein [P-gp] inhibitors (e.g., verapamil and cyclosporine), without toxicity to normal cells [370]. Thus, flavonoids have the potential of being useful as chemotherapeutic agents, through derivatives with increased bioavailability, as is the case with paclitaxel and vincristine in multidrug resistant tumor cells [371], [372].
+11.5. EGCG
+Green tea is associated with decreased frequency of cancer development due to the presence of EGCG and other polyphenols (Fig. 5). EGCG suppresses AR expression and signaling. EGCG also blocks the nuclear translocation of NF-κB as a result of decreased inhibitor of NF-κB kinase activity, thereby blocking cancer cell proliferation. Green tea polyphenols also downregulate MAPK activity and VEGF production leading to a block in proliferation [373]. In addition, EGCG inhibits β-catenin nuclear accumulation and subsequent transcription of target genes (Fig. 6, Table 2). EGCG also exerts part of its anticancer activity through epigenetic mechanisms. For example, EGCG can reverse CpG island hypermethylation of various methylation silenced genes and reactivate their expression [374]. EGCG also upregulates such miRNAs as miR-16, let-7c, miR-18, miR-25, and miR-92 and downregulates miR-129, miR-196, miR-200, miR-342, and miR-526 [375]. Furthermore, EGCG affects the expression of HIF-1α through the regulation of miR-210 [376]. EGCG protects against oxidative damage of DNA, proteins and lipids by acting as a chaperone, and by downregulating multiple signaling pathways (e.g., VEGFR1/R2, EGFR/HER2, PI3K/Akt, IGF/IGFR1, and MAPK) [377], and strongly inhibits the antiapoptotic proteins Bcl-XL and Bcl-2 [378]. However, EGCG promoted DNA damage in mouse leukaemic monocyte macrophage RAW 264.7 and human promyelocytic leukemia HL-60 cell lines in a dose dependent manner [379]. EGCG has also been associated with liver damage, perhaps because it triggers oxidative stress [380]. In light of these results, it is likely that the multiple properties and targets of EGCG and many other natural compounds (Fig. 6, Table 5) impact the outcome of treatment, depending upon dose, duration, and combinations with other therapeutic approaches. In this context, careful consideration must be given to the use of these compounds in the development of novel therapeutics.
+11.6. Genistein
+Genistein is an isoflavone in soy that inhibits proliferation of breast cancer cells and has colon cancer prevention activity [381], [382] (Fig. 5). Genistein blocks NF-κB [383], promotes apoptosis and alters polyamine metabolism [384]. It exerts antiproliferative activity by blocking EGF signaling through forkhead box O3 activity [385], [386], has antitumor effects in a non small cell lung cancer cell line [387], regulates the expression of miRNA implicated in controlling proliferation [388], and exhibits additive effects when combined with trastuzumab and cetuximab in breast and oral squamous cell carcinoma cells, respectively [389], [390]. Genistein suppresses prostate carcinogenesis in the transgenic adenocarcinoma of the mouse prostate model via inhibition of β-catenin signaling [391]. Treatment also reduced Wnt signaling in mammary epithelial cells [392] and in a colon cancer cell line [393] (Fig. 6, Table 2). Genistein inhibits β-catenin/TCF transcriptional activity, promotes GSK3-β activation (which phosphorylates and promotes degradation of β-catenin), and upregulates expression of E-cadherin (Fig. 6, Table 2). As a phytoestrogen, genistein acts through binding to the ER. ERα activation leads to cell proliferation [394], and ERβ activation promotes cellular differentiation [395]. ERβ signaling counteracts ERα related proliferation. Genistein preferentially activates ERβ-mediated gene transcription [396] which would inhibit proliferation (and tumorigenesis) and promote differentiation. In addition, genistein affects the expression of miRNAs [388], such as upregulating miR-200 [327]. However, its therapeutic actions in vivo have not been consistent, in that genistein exhibited a cancer promoting effect in some tumors [397], suggesting the need for careful selection of patients and safer planning in future clinical trials. This may be concentration dependent, because genistein inhibited cell proliferation at high concentrations and activated of estrogen signaling at low concentrations [330]. In order to better exploit the potential of genistein and limit off target effects, it has been coupled to a monoclonal antibody (B43) and then used for the treatment of patients with acute lymphocytic leukemia and Non-Hodgkin's lymphoma [398]. Genistein has also been coupled to recombinant EGF and then used to treat patients with EGFR+ breast cancer [399]. Additional human studies, where genistein is coupled to specific ligands, need to be conducted to see whether genistein's antitumor properties can be demonstrated alone or with cytotoxic or radiation therapy.
+11.7. Ellagitannins
+Ellagitannins are bioactive polyphenols found in berries and pomegranates that have anticancer, antioxidant and antiinflammatory bioactivities (Fig. 5). Ellagitannins are not absorbed intact into the blood stream but are hydrolyzed to ellagic acid. They are also metabolized by gut flora into urolithins that are bioactive and inhibit prostate cancer cell proliferation by interfering with NF-κB activity [400]. Ellagitannin rich pomegranate extract inhibited proliferation of endothelial and prostate cancer cells, and blocked tumor associated angiogenesis [401]. Urolithin significantly inhibited testosterone induced MCF-7aro cell proliferation most likely by exhibiting antiaromatase activity [402]. In animal studies, ellagitannin rich pomegranate fraction has been shown to retard cell proliferation through suppression of β-catenin and NF-κB pathways in diethylnitrosamine induced hepatocarcinogenesis in rats [403], [404]. In clinical studies, pomegranate juice led to a decrease in prostate specific antigen (PSA) levels after primary treatment with surgery or radiation [367]. Furthermore, ellagitannins were also active in regulating the expression of several miRNAs in HepG2 cells [405].
+11.8. Lycopene
+Lycopene is a lipid soluble carotenoid molecule found in high concentration in red fruit and vegetables. Lycopene has a significant antioxidative activity. Epidemiological studies have shown that consumption of lycopene is inversely related to human prostate cancer [406], [407]. Lycopene blocked cell growth in breast, prostate and endometrial cancer cells by inhibiting NF-κB activity [408]. In colon cancer cells, lycopene inhibited Akt signaling. Lycopene treatment suppressed Akt activation, increased the phosphorylation (inactivation) of β-catenin, and stimulated expression of cdk inhibitor p27Kip1 [409]. In addition, lycopene inhibited IGF-1-mediated Akt and AR signaling in rat prostate cancer and reduced AR and β-catenin nuclear localization [410]. Independent evidence, however, failed to show that lycopene altered cell proliferation for a variety of cell types [411]. Given these circumstances, lycopene and many other natural products are currently available as herb and vitamin supplements that are not regulated by the Federal Drug Administration. Although these supplements have no serious side effects, future work will be needed to clarify the use of lycopene in cancer therapy.
+11.9. Quercetin
+Quercetin, a natural protective bioflavonoid, possesses diverse pharmacologic effects, such as antioxidant, antiinflammatory, antiproliferative, and antiangiogenic activities. Quercetin, at nontoxic concentrations, significantly inhibited Akt and mTOR. Moreover, quercetin exhibited antitumor activity that was manifested by a significant reduction of tumor size in a xenograft mouse model [412]. Quercetin inhibited P-gp function and consequently enhanced the bioavailability of chemotherapeutic agents [413]. Furthermore, tamoxifen underwent extensive hepatic metabolism as a substrate for the efflux of P-gp, breast cancer resistance protein, and multidrug resistance protein 2. As a dual inhibitor of the metabolizing enzyme cytochrome P450, family 3, subfamily A and the multidrug resistance transporter, quercetin increased the absorption and the bioavailability of tamoxifen [414].
+11.10. Additional natural products
+Additional natural products were also reported to affect tumor proliferation such as 13-cis-retinoic acid which significantly interferes with the activity of NF-κB, c-Fos, activated transcription factor-2, and cyclic adenosine monophosphate response element binding protein that directly or indirectly modulate tumor proliferation [415]. Other natural products, such as parthenolide, the active component in Feverfew (Tanacetum parthenium), also showed strong anticancer and antiinflammatory activities. Parthenolide exhibited strong NF-κB- and STAT-inhibition mediated transcriptional suppression of proapoptotic genes [416]. In addition to the antiproliferative activity of pure natural products, there are many promising medicinal plants and mushrooms [417]. For example, bitter melon (Momordica charantia), which is used as functional food to prevent and treat diabetes and associated complications, exhibited antitumor activity against a number of cancer cell lines without affecting normal cell growth [418]. Moreover, organic extracts of medicinal mushrooms, such as Ganoderma lucidum and Comatus caprinus, exhibited strong and promising antiproliferative activities against a variety of cancer cell lines [419], [420], [421], [422]. To appreciate their full potential for future clinical use, isolation and elucidation of active chemical entities will be required, followed by preclinical and clinical evaluation.
+11.11. Natural compounds in clinical trials
+Although clinical data on natural products in cancer appears efficacious, most studies have not been conducted as randomized clinical trials. Appropriate clinical trials have begun with some natural compounds (Table 4), and these will be important for the development of stand alone or combination therapies. The goal of natural products or herbs is not to replace current cancer therapeutics but rather to augment their activity as adjuvants or to reduce side effects. Existing studies suggest synergistic interactions between cancer chemotherapeutics and natural products, especially when these two approaches act on cancer by different mechanisms. For example, lycopene supplements reduced tumor size and PSA levels in localized prostate cancer patients [423], which is consistent with the inhibition of AR nuclear translocation that was found by in vitro studies. Many of these bioactive natural products are consumed in diets, suggesting a need for developing “medicinal foods.” The latter will be based on phytochemicals directed against specific molecular targets that might be utilized as a diet based combinatorial approach in the prevention and treatment of cancer [424]. Table 5 presents a list of priority targets and corresponding natural products discussed herein. This could provide a foundation for the future research and development of these compounds or their derivatives that would be useful in cancer prevention and/or treatment. However, several “best” targets are not listed because so far there is no natural product that affects these molecules (e.g., Snail/Slug). In addition, several other phytochemicals have been evaluated over the past decade against a variety of different tumor types [330]. In some cases, plant extracts were used, even though the active phytochemical(s) were not known. Further, when purified compounds were used, they often potentially blocked the activities of multiple molecules or pathways, making it difficult to assess their relevant targets [330]. While the compounds in Table 5 have been selected for their activities against proliferation, many of them may also impact upon other hallmarks of cancer. For example, many of these chemicals have additional antiinflammatory and antioxidant effects, including their ability to scavenge free radicals. In generating a single “prototypical” approach for the treatment of preneoplastic and early tumor nodules with natural compounds, a combination of curcumin, genistein and resveratrol is suggested because they each have broad activities against many of the key signaling pathways and targets that drive proliferation. However, the concentration of these phytochemicals used experimentally in in vitro studies vastly exceeds the concentration detected in humans following vegetable and fruit intake. Thus, more stable, absorbable variants will have to be derived in order for these to be considered as chemopreventative or chemotherapeutic agents. The bioavailability, pharmacokinetics (especially when complex mixtures are being evaluated), isolation without copurifying contaminants (e.g., heavy metals), degradation profiles in human tissues, favorable drug–drug interactions in preclinical and clinical trials, and off target effects when used at doses that will probably exceed those found in the dietary sources will need to be determined. In addition, reproducible isolation of active compounds from natural sources is likely to be challenging. This is because activity may depend upon combinations of compounds that may be present in mixtures but separated during isolation, and because the amounts of these natural compounds produced by the plant or other host organism are likely to vary depending upon the environmental conditions in which these hosts grow. Thus, climate changes could greatly effect the reproducible isolation and characterization of compounds from natural sources. An alternative approach would involve chemical synthesis of active natural compounds, but the complex chemical structure of many compounds make them difficult or impossible to synthesize by conventional means. In this case, the key enzymes or metabolic pathways responsible for their synthesis could be isolated and transferred to easily manipulated bacteria or yeast to achieve synthesis of enough material for therapeutic applications. However, as the mechanism(s) whereby these natural products operate are elucidated, better complementation with other drugs (natural or synthetic) may provide opportunities to target proliferation at the appropriate time in the right cell type. Overcoming these limitations will provide an even broader base for their utility in cancer chemoprevention and in blocking tumor progression. Even if natural products are not suitable alone or in combination for cancer chemoprevention, they may be useful as an adjuvant to chemotherapy, radiation therapy, and/or small molecule inhibitors of key signaling molecules. This would prompt the design of clinical trials in which one or multiple natural products (or their derivatives) will be added to standard care therapy for individual tumor types, to see if they are active in reducing tumor burden and/or decreasing the frequency of relapse. Among tumor types where clear risk factors of cancer development are known, natural products could be evaluated to see whether they reduce the risk factors for tumor development.
+Table 4. Clinical trials using natural products.
+Target	Drug	Type of cancer	Phase	Other agents	References
+Notch	aMK0752
+Pancreatic	I, II	Gemcitabine/radiation	[463], [464]
+
+		Breast	I		
+
+	bRO4929097	Renal cell	II	Cetuximab, bevacizubmab/FOLFOX vismodegib	[465]
+
+		Colorectal	II		
+		Advanced breast	I		
+		Advanced/metastatic sarcoma			
+
+Hedgehog	cSaridegib.svg (IPI-926)	Head and neck	I	Cetuximab bevacizumab, chemotherapy	[466], [467]
+
+		Colorectal	II		
+		BCC	II		
+		Solid tumors	I		
+
+Hedgehog/Notch	bRO4929097	Breast	I	Vismodegib	[465]
+
+	dBMS-833923	BCC, solid tumors	I	Dasatinib or bosutinib	[468], [469]
+
+	ePF-04449913	Hematologic	I		[470]
+
+
+Wnt	Resveratrol	Colon	I, II		[471], [472]
+
+	fPRI-724
+Solid tumors	I		[473]
+
+a
+3-((1r,4s)-4-(4-chlorophenylsulfonyl)-4-(2,5-difluorophenyl)cyclohexyl)-propanoic acid is a γ-secretase inhibitor.
+b
+2,2-dimethyl-N-((S)-6-oxo-6,7-dihydro-5H-dibenzo[b,d]azepin-7-yl)-N′-(2,2,3,3,3-pentafluoro-propyl)-malonamide is a γ-secretase inhibitor.
+c
+Saridegib is a cyclopamine (2-hydroxylpropyl)-β-cyclodextrin) which is a Smoothened (SMO) inhibitor.
+d
+BMS-833923 N-(2-methyl-5-((methylamino)methyl)phenyl)-4-((4-phenylquinazolin-2-yl) amino)benzamide is a Smoothened inhibitor.
+e
+PF-04449913 (1-((2R,4R)-2-(1H-benzo[d]imidazol-2-yl)-1-methylpiperidin-4-yl)-3-(4-cyano-phenyl)urea is a SMO inhibitor.
+f
+PRI-724 specifically inhibits the recruiting of beta-catenin with its coactivator CBP (the binding protein of the cAMP response element-binding protein CREB).
+Table 5. Natural Compounds Effective Against Proliferation.
+Natural product	Targets
+Curcumin	NF-κB, PI3K/Akt, and STAT3 [323], mTOR [324]; HIF-1α [474]
+
+Sulforaphane	NF-κB [334], Wnt (β-catenin) [335], Hh [132]
+
+Resveratrol	NF-κB [353], AR [346], IGFR1 [347], Notch-1 [194], Cyclin/CDKs [350], Wnt (β-catenin) [348], STAT3 [356], PI3K/Akt [346], Hh [355]
+
+Genistein	NF-κB [383], FOXO3 [385], Wnt (β-catenin) [391], [392], ERβ [396]
+
+EGCG	NF-κB, VEGFR1/R2, EGFR/HER2, PI3K/AKT, IGF/IGF1, MAPK, COX-2 [377]
+
+Brassinin	PI3K/Akt [337]
+
+Indole-3-carbinol	ERα, IGFR1, and IRS-1 [331]
+
+Quercetin	ER [365], HER2 [475], mTOR [476]
+
+Lycopene	NF-κB [477], IGFR1 [410], PI3K/Akt [409], Wnt (β-catenin) and AR [478], cyclins/CDKs [479]
+
+12. Emerging genomic and bioinformatic tools to facilitate application of natural compounds to cancer
+The “genomics revolution” is transforming the understanding of cellular processes involved in cancer such as cell proliferation, differentiation, and apoptosis. The Human Genome Project [425] provided the groundwork by generating human and model organism genome assemblies [426], [427], [428], [429], new genome based technologies [430], [431], and advanced computational infrastructure to handle newly generated massive datasets. New sequencing technologies are now outfitting researchers with unprecedented volumes of data to explore the etiology of cancer. For the first time, biologists are able to characterize how entire genomes, transcriptomes, proteomes, and epigenomes can respond to specific changes in genes and their cellular environments, including insights into underlying mechanisms of proliferation. By applying an integrative systems approach, cancer biologists are beginning to employ an enormously powerful perspective with important translational consequences. These tools will be critical in assessing the impact of natural compounds, alone or in combination, for cancer prevention and treatment.
+Novel genomic data are accumulating at an ever increasing rate. Massive genome wide surveys of tumor and nontumor genomes from the Cancer Genome Project are providing new opportunities to track how cancers develop over time [432] and find common molecular mechanisms that could be therapeutically targeted. The ENCODE project has functionally annotated genomes with great precision [433]. Perhaps, the single most important feature of these data is that they are freely available via publicly accessible and expertly curated databases (e.g., NCBI's GenBank, Sanger Institute, University of California, Santa Cruz Genome Browser) allowing for greater opportunities to transform cancer research from single genomic phenomena to systems wide analyses (Fig. 7). As a result, bioinformatics has become a critical interdisciplinary tool enabling researchers to handle, analyze, mine, and explore high throughput data. Bioinformatics will become even more important as new genomic technologies increase the super exponential rate at which tumor based data of all sorts are generated.
+ 
+1.	Download : Download high-res image (337KB)
+2.	Download : Download full-size image
+Fig. 7. Evolution of genomic resources aimed at identification of cancer targets. There are a growing number of accessible genomic resources that provide an empirical foundation to identify genome-wide targets of tumor cell proliferation.
+In the postgenomics era, there is a transformational shift in the understanding of gene regulation, mutational changes, and epigenomic consequences in cell proliferation at the genomic level. While the study of cancer represents a difficult challenge due to the sheer diversity and complexity of its multiple genetic factors, the good news is that remarkable resources are rapidly accumulating in the public domain that will help to translate these recent advances in genomics and bioinformatics to the clinical setting through such approaches as the identification of biomarkers involved in tumor proliferation (Fig. 7). The challenge is to train researchers who can interpret the molecular data and are able to handle and integrate massive and diverse datasets. The ability to integrate these data types into comprehensive dynamic models using genetic pathways, protein-protein interaction networks, and genetic regulatory networks will ultimately connect changes at the molecular level to the phenotypic level, with potential clinical outcomes in arresting tumor progression.
+13. Conclusions and prospects
+Targeting mechanisms involved in uncontrolled cancer cell proliferation will increasingly become the standard of care for cancer patients, and this review has highlighted some of the “best” targets in several pathways that regulate proliferation. For example, in preneoplastic tissue the expression of Snail1/2 will need to be blocked in order to maintain E-cadherin expression and tissue integrity and to prevent EMT. Once E-cadherin is lost, and hypoxia develops, it will be important to block HIF-1 either directly or indirectly by utilizing inhibitors of Hsp90, topoisomerase, or mTOR. Targeting the generation and growth of CSCs will be a major challenge, due to the overlap of currently identified pathways between CSCs and SCs. Maintaining CSC dormancy may prevent reactivation of disease once the mature tumor cells have been eliminated by conventional therapies and remission has been achieved, but it is not clear how this can be done. Antagonists of Wnt, Hh and MAPK p38 signaling may be of some value in this, while increasing C/EBPα expression, which promotes differentiation, might push CSC into a therapy sensitive state. In addition to β-catenin, there is rationale to seek antagonists of Notch, HER2/ErbB2 and the IGF-1/IGFR1 signaling pathways, since these are central to cell fate decisions and are often reactivated in cancer. In the context of the cell cycle, it will be important to target cyclin D and cdk4/6. Among hormone sensitive cancers, ER and AR are prime targets for the continued development of antagonists. Thus, there are a number of putative targets in sustained proliferative signaling that may be considered for future drug development and evaluation.
+Table 6 lists the target molecules and pathways that seem to be the most important in promoting sustained proliferation and enabling cells to acquire other hallmarks of cancer. As shown, there are 10 hallmarks listed, and an eleventh category, “tumor microenvironment,” which is not a hallmark but is being evaluated here as well. For example, HIF-1 signaling is an important therapeutic target for all the cancer hallmarks with the probable exception of evasion of growth suppression and the immune system evasion. Since HIF-1 promotes survival and growth under hypoxic conditions, it may be a therapeutic target in 8 out of the 10 cancer hallmarks where data is reported (which includes sustained proliferative signaling). Thus, it is likely that drugs that block HIF-1 signaling will be effective against multiple tumor types in their very early stages. Among other pathways, inhibiting PI3K/Akt signaling would block all of the hallmarks, while inhibiting Wnt signaling would block at least 6 of the 10 hallmarks (Table 6). Since blocking NF-κB or Wnt signaling promote or suppress replicative immortality, corresponding inhibitors will have to be evaluated more carefully for each tumor type. Likewise, drugs that would block development of some hallmarks actually promote the growth of androgen and estrogen dependent tumors (Table 6). When considering which hallmarks would make the best targets for therapeutic intervention, resistance to apoptosis, dysregulated cell metabolism, evasion of growth suppression, the development of genomic instability, in addition to sustained proliferative signaling, would rank high. These hallmarks seem to be sensitive to inhibition from many signaling pathways, although which pathways are most important remains to be determined. Importantly, tissue/tumor interactions in the microenvironment would also be an excellent target for therapeutic intervention.
+Table 6. Priority targets for sustained proliferative signaling.
+Other cancer hallmarks	Targets for sustained proliferationa
+
+	(inhibits)
+HIF-1 signaling	(inhibits)
+NF-κB signaling	(inhibits)
+PI3K/Akt signaling	(inhibits)
+Wnt (β-catenin)	(inhibits)
+IGFR1 signaling	(attenuates)
+Cell cycle (CDKs/cyclins)	(suppresses)
+AR signaling	(suppresses)
+ER signaling
+Genomic instability	+
+[480], [620] b
++
+[481]
++
+[482]
+0	0	+
+[483]
++
+[484]
++
+[485]
+
+Tumor-promoting inflammation	+
+[486]
++
+[487], [488]
++
+[489], [490], [491]
++
+[492], [493], [494]
++
+[495], [496]
++
+[497], [498]
++/−
+[499], [500]
++/−
+[501], [502]
+
+Evasion of anti-growth signaling	0	+/−
+[503]
++
+[504], [505]
++
+[506], [507]
++
+[508], [509]
++
+[510], [511]
++
+[512], [513], [514]
++
+[515], [516]
+
+Resistance to apoptosis	+
+[517], [518]
++
+[519], [520]
++
+[521]
++
+[522]
++
+[523]
++
+[524]
++
+[525]
++
+[526]
+
+Replicative immortality	+
+[527]
++/−
+[225], [528], [529]
++
+[530], [531], [532]
++/−
+[533], [534]
++
+[690], [691]
++
+[535], [536]
++
+[537], [538]
++
+[539], [540], [541], [542]
+
+Dysregulated metabolism	+
+[45], [543], [544]
++
+[545]
++
+[544], [546]
++
+[547]
++
+[548], [549]
++
+[550], [551]
+0	+
+[552]
+
+Immune system evasion	0	+
+[553]
++
+[554]
++
+[555], [556]
+0	−
+[557], [558]
++
+[559], [560]
++
+[561], [562]
+
+Angiogenesis	+
+[711]
++/−
+[354], [563]
++
+[564], [630], [712]
++/−
+[565], [621]
++
+[566]
++
+[567], [568]
++
+[569]
++/−
+[570], [571]
+
+Tissue invasion and metastasis	+
+[5], [571]
++
+[572], [573], [692]
++
+[574]
++/−
+[575]
++
+[549], [576]
+−
+[577], [578]
++/−
+[579]
+−
+[580]
+
+
+Other characteristics
+Tissue interactions in the tumor microenvironment	+
+[581]
++
+[582]
++
+[583]
++
+[584], [585]
++
+[586]
++
+[587], [588]
++
+[589]
++/−
+[587], [590], [591], [592]
+
+a
+The cross validation above documents whether the therapeutic targets that are important to block sustained proliferative signaling also block additional hallmarks of cancer as indicated by the cited references. In identifying these putative therapeutic targets, + = putative target in sustained proliferative signaling that is shared with other hallmarks (complementary relationship); 0 = putative target not documented in other hallmarks (no relationship); +/− = putative target whose inhibition would promote other selected hallmarks (making it controversial as to whether the molecule/pathway should be targeted in cancer at all); − = putative target that promotes sustained proliferative signaling but inhibits other selected hallmarks (target inhibition has opposite effects, depending upon the hallmark; suggesting a contrary relationship). For example, HIF-1 is activated by mutation, confers resistance to apoptosis, supports replicative immortality, dysregulates cell metabolism, stimulates angiogenesis, metastasis, and alters tumor microenvironment. All of these features promote tumorigenesis, suggesting it is a good target for therapeutic intervention in multiple steps of tumor pathogenesis.
+b
+The numbers in each box are the references that document whether the putative therapeutic target in each column is also a target for the other hallmarks.
+To determine which natural compounds are likely to be most effective against multiple cancer hallmarks, a literature search was performed. Table 7 shows that curcumin, which targets HIF-1, NF-κB, and PI3K/Akt signaling (Table 5), is also active against all of the cancer hallmarks, as well as the tumor microenvironment. Genistein is effective against at least 6 of the 10 hallmarks while resveratrol is effective in 8 of 10. However, in some cases the, appropriate studies comparing a compound and a particular hallmark have not been performed, so that “no relationship” between these drugs and some of the hallmarks has been reported. In the case of genistein, it is not clear whether it promotes or inhibits the dysregulation of cell metabolism, evasion of growth suppression, immune system evasion, and tumor promoting inflammation. For resveratrol, different reports document a positive or negative effect of this compound upon immune system evasion and angiogenesis. Importantly, all three of these compounds block the development of other hallmarks, which are critical steps in carcinogenesis. Importantly, all of these compounds also appear to be effective against the tumor microenvironment. Thus, combination therapy with curcumin, genistein and resveratrol may be effective against multiple targets (and cancer hallmarks) in many tumor types, suggesting that they would be very good choices for further clinical development and widespread application.
+Table 7. Therapeutic approaches targeting sustained proliferative signaling.
+Other cancer hallmarksa
+Phytochemical approaches
+	Curcumina
+Resveratrol	Genistein
+Genomic instability	+
+[597], [603], [635], [636] b
++
+[657], [658], [695], [694], [695]
++
+[674], [706]
+
+Tumor-promoting Inflammation	+
+[322], [593], [595], [637], [638], [639]
++
+[347], [353], [612], [613], [659], [660], [661]
++/−
+[397], [675], [676], [677], [707], [708], [709]
+
+Evasion of anti-growth signaling	+
+[605], [627], [640], [641], [642]
++
+[347], [614], [662], [663]
++/−
+[397], [678], [679], [680]
+
+Resistance to apoptosis	+
+[347], [449], [521], [537], [594], [598], [600], [602], [606], [607], [608], [609], [618], [627], [643]
++
+[194], [344], [347], [611], [614], [622], [664]
++
+[681]
+
+Replicative immortality	+
+[617], [644], [645], [646]
++
+[665], [666]
++
+[616], [682]
+
+Dysregulated metabolism	+
+[474], [593], [617], [625], [647], [648]
++
+[6], [28], [74], [76], [347], [613], [667], [668], [696], [697], [698], [699], [700]
++/−
+[76], [633], [683], [684]
+
+Immune system evasion	+
+[76], [649]
++/−
+[701], [702], [703], [704], [705]
++/−
+[710]
+
+Angiogenesis	+
+[474], [596], [601], [619], [650]
++/−
+[610], [665], [669], [698]
++
+[623], [685]
+
+Tissue invasion and metastasis	+
+[594], [599], [604], [629], [651], [652], [653], [654]
++
+[352], [615], [624], [626], [670], [671]
++
+[631], [632], [686]
+
+
+Other characteristics
+Tissue interactions in the tumor microenvironment	+
+[628], [644], [655], [656]
++
+[672], [673]
++
+[687], [688]
+
+a
+The cross validation above documents whether the compounds that are most likely to be effective against sustained proliferative signaling also block additional hallmarks of cancer as indicated by the cited references. In identifying natural compounds most useful for therapeutic intervention, + = compounds that are effective against sustained proliferative signaling and other hallmarks (complementary relationship); 0 = compound effective against sustained proliferative signaling that are not documented in other hallmarks (no relationship); +/− = compound effective against sustained proliferative signaling promotes but not consistently against other selected hallmarks (controversial as to whether the compound should be used against cancer at all); − = compound effective against sustained proliferative signaling shown to promote tumorigenesis by measuring other selected hallmarks (drug has opposite effects; suggesting a contrary relationship).
+b
+The numbers in each box are the references that document whether the putative compound in each column also targets other hallmarks.
+

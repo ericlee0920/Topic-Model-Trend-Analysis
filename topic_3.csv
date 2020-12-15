@@ -1,0 +1,10 @@
+topic_no,prob_words
+0,"0.038*""locus"" + 0.027*""model"" + 0.021*""loci"" + 0.020*""single"" + 0.014*""strategy"" + 0.012*""search"" + 0.010*""test"" + 0.010*""stage"" + 0.010*""case"" + 0.009*""component"""
+1,"0.028*""tumor"" + 0.020*""cancer"" + 0.018*""gene"" + 0.016*""cell"" + 0.015*""breast"" + 0.014*""expression"" + 0.014*""subtype"" + 0.011*""sample"" + 0.009*""study"" + 0.009*""show"""
+2,"0.028*""cancer"" + 0.027*""risk"" + 0.017*""patient"" + 0.016*""estimate"" + 0.015*""dose"" + 0.014*""old"" + 0.013*""woman"" + 0.011*""radiation"" + 0.011*""ctca"" + 0.010*""study"""
+3,"0.032*""gene"" + 0.027*""factor"" + 0.018*""pathway"" + 0.017*""model"" + 0.011*""expression"" + 0.011*""variable"" + 0.010*""set"" + 0.010*""cancer"" + 0.009*""sample"" + 0.007*""patient"""
+4,"0.026*""gene"" + 0.020*""network"" + 0.018*""image"" + 0.012*""disease"" + 0.009*""neural"" + 0.008*""phenotype"" + 0.007*""application"" + 0.007*""input"" + 0.007*""model"" + 0.007*""neuron"""
+5,"0.031*""numeracy"" + 0.014*""information"" + 0.012*""risk"" + 0.012*""health"" + 0.012*""patient"" + 0.011*""low"" + 0.010*""measure"" + 0.009*""number"" + 0.008*""numerical"" + 0.008*""effect"""
+6,"0.025*""cell"" + 0.017*""p53"" + 0.016*""induce"" + 0.012*""show"" + 0.009*""target"" + 0.009*""study"" + 0.009*""protein"" + 0.009*""sirtinol_salermide"" + 0.009*""acetylation"" + 0.008*""SIRT1"""
+7,"0.064*""gene"" + 0.047*""network"" + 0.027*""significance"" + 0.025*""module"" + 0.017*""concept"" + 0.015*""measure"" + 0.014*""relationship"" + 0.012*""define"" + 0.010*""expression"" + 0.010*""high"""
+8,"0.023*""cell"" + 0.013*""cancer"" + 0.012*""gene"" + 0.011*""breast"" + 0.011*""-"" + 0.009*""target"" + 0.009*""expression"" + 0.007*""identify"" + 0.007*""transcript"" + 0.007*""sequence"""

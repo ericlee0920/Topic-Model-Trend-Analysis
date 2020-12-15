@@ -1,0 +1,9 @@
+topic_no,prob_words,perc_token
+1,"0.044*""cell"" + 0.020*""gene"" + 0.018*""cancer"" + 0.017*""expression"" + 0.016*""sample"" + 0.014*""tumor"" + 0.010*""analysis"" + 0.009*""-"" + 0.009*""patient"" + 0.008*""breast""",0.303
+2,"0.021*""cancer"" + 0.014*""drug"" + 0.013*""cell"" + 0.012*""tumour"" + 0.012*""gene"" + 0.011*""target"" + 0.008*""therapy"" + 0.008*""interaction"" + 0.008*""resistance"" + 0.007*""mutation""",0.225
+3,"0.028*""peptide"" + 0.018*""search"" + 0.017*""modification"" + 0.010*""protein"" + 0.009*""mass"" + 0.009*""number"" + 0.008*""identify"" + 0.007*""fragment"" + 0.007*""-"" + 0.007*""score""",0.115
+4,"0.034*""mutation"" + 0.016*""promoter"" + 0.013*""patient"" + 0.012*""cancer"" + 0.010*""sequence"" + 0.009*""-"" + 0.008*""region"" + 0.008*""target"" + 0.008*""gene"" + 0.008*""sample""",0.09
+5,"0.049*""disease"" + 0.032*""model"" + 0.020*""prediction"" + 0.018*""profile"" + 0.017*""similarity"" + 0.016*""association"" + 0.015*""network"" + 0.014*""associate"" + 0.012*""score"" + 0.012*""study""",0.074
+6,"0.038*""cell"" + 0.033*""cancer"" + 0.029*""breast"" + 0.016*""expression"" + 0.012*""tissue"" + 0.012*""circ"" + 0.010*""show"" + 0.009*""abcb10"" + 0.008*""perform"" + 0.008*""line""",0.073
+7,"0.029*""slide"" + 0.025*""model"" + 0.016*""tile"" + 0.012*""train"" + 0.010*""test"" + 0.009*""dataset"" + 0.009*""positive"" + 0.008*""level"" + 0.008*""set"" + 0.007*""pathology""",0.065
+8,"0.028*""tumor"" + 0.024*""lesion"" + 0.023*""patient"" + 0.016*""uptake"" + 0.012*""deposition"" + 0.009*""tissue"" + 0.009*""study"" + 0.008*""delivery"" + 0.008*""blood"" + 0.008*""day""",0.056

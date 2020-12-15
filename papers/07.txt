@@ -1,0 +1,9 @@
+Abstract
+Background
+Few long noncoding RNAs (lncRNAs) that act as oncogenic genes in breast cancer have been identified.
+Methods
+Oncogenic lncRNAs associated with tumourigenesis and worse survival outcomes were examined and validated in Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA), respectively. Then, the potential biological functions and expression regulation of these lncRNAs were studied via bioinformatics and genome data analysis. Moreover, progressive breast cancer subtype-specific lncRNAs were investigated via high-throughput sequencing in our cohort and TCGA validation. To elucidate the mechanisms of the regulation of these lncRNAs, genomic alterations from the TCGA, Broad, Sanger and BCCRC data, as well as epigenetic modifications from GEO data, were then applied and examined to meet this objective. Finally, cell proliferation assays, flow cytometry analyses and TUNEL assays were applied to validate the oncogenic roles of these lncRNAs in vitro.
+Results
+A cluster of oncogenic lncRNAs that was upregulated in breast cancer tissue and was associated with worse survival outcomes was identified. These oncogenic lncRNAs are involved in regulating immune system activation and the TGF-beta and Jak-STAT signalling pathways. Moreover, TINCR, LINC00511, and PPP1R26-AS1 were identified as subtype-specific lncRNAs associated with HER-2, triple-negative and luminal B subtypes of breast cancer, respectively. The up-regulation of these oncogenic lncRNAs is mainly caused by gene amplification in the genome in breast cancer and other solid tumours. Finally, the knockdown of TINCR, DSCAM-AS1 or HOTAIR inhibited breast cancer cell proliferation, increased apoptosis and inhibited cell cycle progression in vitro.
+Conclusions
+These findings enhance the landscape of known oncogenic lncRNAs in breast cancer and provide insights into their roles. This understanding may potentially aid in the comprehensive management of breast cancer.

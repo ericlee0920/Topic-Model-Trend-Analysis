@@ -1,0 +1,11 @@
+Abstract
+
+Purpose: Therapeutic nanoparticles are designed to deliver their drug payloads through enhanced permeability and retention (EPR) in solid tumors. The extent of EPR and its variability in human tumors is highly debated and has been proposed as an explanation for variable responses to therapeutic nanoparticles in clinical studies.
+
+Experimental Design: We assessed the EPR effect in patients using a 64Cu-labeled nanoparticle, 64Cu-MM-302 (64Cu-labeled HER2-targeted PEGylated liposomal doxorubicin), and imaging by PET/CT. Nineteen patients with HER2-positive metastatic breast cancer underwent 2 to 3 PET/CT scans postadministration of 64Cu-MM-302 as part of a clinical trial of MM-302 plus trastuzumab with and without cyclophosphamide (NCT01304797).
+
+Results: Significant background uptake of 64Cu-MM-302 was observed in liver and spleen. Tumor accumulation of 64Cu-MM-302 at 24 to 48 hours varied 35-fold (0.52–18.5 %ID/kg), including deposition in bone and brain lesions, and was independent of systemic plasma exposure. Computational analysis quantified rates of deposition and washout, indicating peak liposome deposition at 24 to 48 hours. Patients were classified on the basis of 64Cu-MM-302 lesion deposition using a cut-off point that is comparable with a response threshold in preclinical studies. In a retrospective exploratory analysis of patient outcomes relating to drug levels in tumor lesions, high 64Cu-MM-302 deposition was associated with more favorable treatment outcomes (HR = 0.42).
+
+Conclusions: These findings provide important evidence and quantification of the EPR effect in human metastatic tumors and support imaging nanoparticle deposition in tumors as a potential means to identify patients well suited for treatment with therapeutic nanoparticles. Clin Cancer Res; 23(15); 4190–202. ©2017 AACR.
+Translational Relevance
+
