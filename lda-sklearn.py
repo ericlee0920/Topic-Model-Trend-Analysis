@@ -135,9 +135,3 @@ if __name__ == "__main__":
         count_vectorizer = CountVectorizer(stop_words='english')
         count_data = count_vectorizer.fit_transform([lemma[i]])
         plot_most_common_words(count_data, count_vectorizer)
-
-    # number_topics = 4
-    # number_words = 10
-    # lda = LDA(n_components=number_topics, n_jobs=-1)
-    # lda.fit(count_data)
-    # print_topics(lda, count_vectorizer, number_words)
