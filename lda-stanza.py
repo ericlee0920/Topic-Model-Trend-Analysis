@@ -104,13 +104,5 @@ if __name__ == "__main__":
     # output results to csv
     for i in range(interval):
         plot_wordcloud(" ".join(paper_dictionary[i]))
-        # pd.DataFrame(paper_dictionary[i]).to_csv("t{}.csv".format(i+1), index=False)
+        pd.DataFrame(paper_dictionary[i]).to_csv("t{}.csv".format(i+1), index=False)
 
-    # count = 0
-    # for i in range(40, 60):
-    #     paper_num = str(i + 1).zfill(2)
-    #     paper = open("papers/{}.txt".format(paper_num), encoding="utf-8")
-    #     content = paper.read()
-    #     text = len(content.split())
-    #     count = count + text
-    # count = count / 20
