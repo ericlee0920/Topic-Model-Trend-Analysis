@@ -59,7 +59,7 @@ def plot_coherence(topic_range, coherence_results):
 
 if __name__ == "__main__":
     # read csv
-    which_run = "2"
+    which_run = "1"
     paper = pd.read_csv("t{}.csv".format(which_run))
     paper = paper.iloc[:, 0].values.tolist()
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
     # build LDA model
     print("processing LDA...")
-    lda_model = LdaModel(corpus=corpus, id2word=word_ids, num_topics=9, random_state=31, iterations=300,
+    lda_model = LdaModel(corpus=corpus, id2word=word_ids, num_topics=8, random_state=31, iterations=300,
                              chunksize=20, passes=10,  alpha="auto", eta="auto", per_word_topics=True)
     results = lda_model.print_topics()
     topic_df = pd.DataFrame(results, columns=["topic_no", "prob_words"])
@@ -92,8 +92,8 @@ if __name__ == "__main__":
     print('Coherence Score: ', coherence_lda)
 
     # train to get topic numbers
-    # topic_range, coherence_results = get_topic_numbers(data_lemmatized, corpus, word_ids, 6, 10)
-    # plot_coherence(topic_range, coherence_results)
+    topic_range, coherence_results = get_topic_numbers(data_lemmatized, corpus, word_ids, 6, 10)
+    plot_coherence(topic_range, coherence_results)
 
     # visualize the topics
     LDAvis_prepared = pyLDAvis.gensim.prepare(lda_model, corpus, word_ids)
