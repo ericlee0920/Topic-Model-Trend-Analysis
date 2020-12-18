@@ -23,15 +23,6 @@ Package Dependencies:
   - nltk
   - nltk_rake
 
-### Python Workflow
-
-1. `lda-stanza.py` is to create preprocessed data using the article text files numbered `1-60` in `/papers`. This step outputs csv files of `t1`, `t2`, `t3`.
-2. `lda-gensum.py` is to create topics from constructing a topic model using LDA and the preprocessed data in csv files of `t1-3`. This step outputs csv files of `topic_1`, `topic_2`, `topic_3`.
-3. `lda-sklearn.py` is to create exploratory data analysis of articles.
-4. `lda-rake.py` is to create ground truth data using the article text files named `review01`, `review02`, and `review03` in `/papers`. This step outputs in console keywords of each review article, yet this REQUIRES expertise to shorten keywords. The expert should output `keyword_list_1`, `keyword_list_2`, `keyword_list_3`.
-5. `lda-process.py` is a special usage file for experts to compare which topics in the time periods are like to be the same. This gives the output of the most similar topic from t_i to t_i+1.
-6. `lda-plot.py` is to plot the trends using the expert processed data `processed_1`, `processed_2`, and `processed_3`. These processed files are made from `topic_1`, `topic_2`, `topic_3`. Running this file will generate the resulting graphs in `/supplementary_figures`.
-
 
 ### Usage
 
@@ -44,6 +35,16 @@ git clone https://github.com/ericlee0920/Topic-Model-Trend-Analysis.git
 Review papers corresponding to the three periods also go in order of text files named `review01`, `review02`, and `review03`.
 4. Inspect all your csv files, topic modeling results that have numbered topics being labeled/named are processed here. The csv files corresponding to the three periods also go in order of `processed_1`, `processed_2`, `processed_3`. 
 `t1-3` and `topic_1-3` are intermediate files for reference of the results in the paper. The former is the result of running `lda-stanza.py` to get preprocessed data, and the ladder is the result of running `lda-gensim.py` to get topics of each time period.
+5. Follow the below python workflow.
+
+### Python Workflow
+
+1. `lda-stanza.py` is to create preprocessed data using the article text files numbered `1-60` in `/papers`. This step outputs csv files of `t1`, `t2`, `t3`.
+2. `lda-gensum.py` is to create topics from constructing a topic model using LDA and the preprocessed data in csv files of `t1-3`. This step outputs csv files of `topic_1`, `topic_2`, `topic_3`. Make sure to change line 62, which_run to your the time period you want, which is between 1 and 3. Also, change line 83, num_topics to the topic number you want.
+3. `lda-sklearn.py` is to create exploratory data analysis of articles.
+4. `lda-rake.py` is to create ground truth data using the article text files named `review01`, `review02`, and `review03` in `/papers`. This step outputs in console keywords of each review article, yet this REQUIRES expertise to shorten keywords. The expert should output `keyword_list_1`, `keyword_list_2`, `keyword_list_3`.
+5. `lda-process.py` is a special usage file for experts to compare which topics in the time periods are like to be the same. This gives the output of the most similar topic from t_i to t_i+1.
+6. `lda-plot.py` is to plot the trends using the expert processed data `processed_1`, `processed_2`, and `processed_3`. These processed files are made from `topic_1`, `topic_2`, `topic_3`. Running this file will generate the resulting graphs in `/supplementary_figures`.
 
 ### Figures
 In `supplementary_figures`, there are many figures: *NOTE* that figures with the same name that have three instances - 1 refers to 2016-2020, 2 refers to 2011-2015, and 3 refers to 2006-2010. 
